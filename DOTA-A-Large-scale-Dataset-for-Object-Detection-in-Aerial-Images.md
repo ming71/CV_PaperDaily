@@ -1,15 +1,3 @@
----
-title: 'DOTA: A Large-scale Dataset for Object Detection in Aerial Images'
-tags: []
-date: 2019-06-17 16:43:28
-categories: Papers
-urlname: DOTADataset
-description:
-image: http://chaserblog.test.upcdn.net/blogs/paper/DOTA/2.png
-top:
-copyright: true
-comments:
----
 
 
 <span id="inline-blue">论文发布日期：2017.11 [CVPR]<p/span>
