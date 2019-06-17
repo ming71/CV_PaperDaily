@@ -1,6 +1,8 @@
+# Notice！
+Owning to my recently **《Numerical Analysis》** exam , I'll suspend update until next week. 
 
 # CV--PaperDaily
-Update CV papers here everday .<br>
+Update CV papers here **everday** .<br>
 The content includes but is not limited to **object detection** , **Semantic segmentation** , and other papers about deep learning . Most of papers are published in recent two years <br>
 Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 
