@@ -19,7 +19,8 @@ M2Det-A-Single-Shot-Object-Detector-based-on-Multi-Level-Feature-Pyramid-Network
 * Not-All-Pixels-Are-Equal-Difficulty-Aware-Semantic-Segmentation-via-Deep-Layer-Cascade  
 * Path-Aggregation-Network-for-Instance-Segmentation  
 * Region-Proposal-by-Guided-Anchoring  
-* Scale-Transferrable-Object-Detection  
+* Scale-Transferrable-Object-Detection 
+* DOTA: A Large-scale Dataset for Object Detection in Aerial Images
 <hr />
 
 
