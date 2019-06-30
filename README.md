@@ -61,4 +61,5 @@ M2Det-A-Single-Shot-Object-Detector-based-on-Multi-Level-Feature-Pyramid-Network
 * Scale-Aware-Trident-Networks-for-Object-Detection  
 * Towards-Real-time-Generic-Object-Detection  
 * Understanding-Convolution-for-Semantic-Segmentation  
+* MMDetection-Open-MMLab-Detection-Toolbox-and-Benchmark
 <hr />
