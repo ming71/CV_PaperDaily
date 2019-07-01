@@ -1,5 +1,5 @@
 # Notice！
-~~Owning to my recent **《Numerical Analysis》** exam , I'll suspend update until next week.~~
+Busy with recent things , I'll update without day.
 
 # CV--PaperDaily
 Update CV papers here **everday** .<br>
