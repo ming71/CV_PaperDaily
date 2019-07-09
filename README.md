@@ -48,7 +48,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 <hr />
 
 
-## Others
+## ArXiv
 * Enhancement of SSD by concatenating feature maps for object detection    
 * FSSD: Feature Fusion Single Shot Multibox Detector   
 * MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects   
