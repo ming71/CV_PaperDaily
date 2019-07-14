@@ -59,4 +59,5 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * MMDetection: Open MMLab Detection Toolbox and Benchmark
 * Double-Head RCNN: Rethinking Classification and Localization for Object Detection
 * Learning Data Augmentation Strategies for Object Detection
+* A-Preliminary-Study-on-Data-Augmentation-of-Deep-Learning-for-Image-Classification
 <hr />
