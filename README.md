@@ -47,17 +47,26 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Why do deep convolutional networks generalize so poorly to small image transformations?   
 <hr />
 
+## ICANN
+* Further advantages of data augmentation on convolutional neural networks  
+
+## ACCV
+* Reverse Densely Connected Feature Pyramid Network for Object Detection   
+<hr />
+
+## WACV
+* Understanding Convolution for Semantic Segmentation
+<hr />
 
 ## ArXiv
 * Enhancement of SSD by concatenating feature maps for object detection    
 * FSSD: Feature Fusion Single Shot Multibox Detector   
-* MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects   
-* Reverse Densely Connected Feature Pyramid Network for Object Detection  
+* MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects    
 * Scale-Aware Trident Networks for Object Detection  
 * ThunderNet:Towards Real-time Generic Object Detection  
-* Understanding Convolution for Semantic Segmentation  
-* MMDetection: Open MMLab Detection Toolbox and Benchmark
-* Double-Head RCNN: Rethinking Classification and Localization for Object Detection
-* Learning Data Augmentation Strategies for Object Detection
-* A-Preliminary-Study-on-Data-Augmentation-of-Deep-Learning-for-Image-Classification
+* MMDetection: Open MMLab Detection Toolbox and Benchmark  
+* Double-Head RCNN: Rethinking Classification and Localization for Object Detection  
+* Learning Data Augmentation Strategies for Object Detection  
+* A Preliminary Study on Data Augmentation of Deep Learning for Image Classification  
+
 <hr />
