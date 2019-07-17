@@ -69,5 +69,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Learning Data Augmentation Strategies for Object Detection  
 * A Preliminary Study on Data Augmentation of Deep Learning for Image Classification  
 * Improved Regularization of Convolutional Neural Networks with Cutout
+* Data Augmentation by Pairing Samples for Images Classification
 
 <hr />
