@@ -75,5 +75,5 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 <hr />
 
 ## Ohters
-* (IEEE Acess)Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+* (IEEE Acess) Smart Augmentation: Learning an Optimal Data Augmentation Strategy
 <hr />
