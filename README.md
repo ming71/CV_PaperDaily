@@ -73,6 +73,8 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Data Augmentation by Pairing Samples for Images Classification
 * How much real data do we actually need: Analyzing object detection performance
   using synthetic and real data
+* Bag of Freebies for Training Object Detection Neural Networks
+
 <hr />
 
 
