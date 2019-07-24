@@ -47,16 +47,17 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Why do deep convolutional networks generalize so poorly to small image transformations?   
 <hr />
 
-## ICANN
-* Further advantages of data augmentation on convolutional neural networks  
 
 ## ACCV
 * Reverse Densely Connected Feature Pyramid Network for Object Detection   
 <hr />
 
-## WACV
-* Understanding Convolution for Semantic Segmentation
-<hr />
+
+
+## IJCV
+* What Makes Good Synthetic Training Data for Learning Disparity and Optical
+  Flow Estimation?
+
 
 ## ArXiv
 * Enhancement of SSD by concatenating feature maps for object detection    
@@ -74,6 +75,9 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
   using synthetic and real data
 <hr />
 
+
 ## Ohters
 * (IEEE Acess) Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+* (ICANN) Further advantages of data augmentation on convolutional neural networks 
+* (WACV) Understanding Convolution for Semantic Segmentation
 <hr />
