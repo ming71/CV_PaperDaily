@@ -1,17 +1,3 @@
----
-title: >-
-  The Effectiveness of Data Augmentation in Image Classification using Deep
-  Learning
-tags: [mechanism]
-date: 2019-07-25 15:22:05
-categories: Papers
-urlname: The-Effectiveness-of-Data-Augmentation-in-Image-Classification-using-Deep-Learning
-description:
-image:  http://chaserblog.test.upcdn.net/blogs/paper/The-Effectiveness-of-Data-Augmentation-in-Image-Classification-using-Deep-Learning/3.png
-top:
-copyright: true
-comments:
----
 
 <span id="inline-blue">论文发布日期：2017.12.4 <p/span>
 
