@@ -57,7 +57,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 ## IJCV
 * What Makes Good Synthetic Training Data for Learning Disparity and Optical
   Flow Estimation?
-
+<hr />
 
 ## ArXiv
 * Enhancement of SSD by concatenating feature maps for object detection    
@@ -75,6 +75,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
   using synthetic and real data
 * Bag of Freebies for Training Object Detection Neural Networks
 * The Effectiveness of Data Augmentation in Image Classification using Deep Learning
+* Natural Adversarial Examples
 <hr />
 
 
