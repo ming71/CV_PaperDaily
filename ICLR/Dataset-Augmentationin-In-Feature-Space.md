@@ -1,6 +1,6 @@
 |  创建人   |  笔记时间 | 标签 | 相关链接 |
 |  ----  | ----  | ----  | ----  |
-| ming71  | 2019-07-29 | mechanism | ![知乎](https://zhuanlan.zhihu.com/c_1113860303082704896) 
+| ming71  | 2019-07-29 | mechanism | [知乎](https://zhuanlan.zhihu.com/c_1113860303082704896) 
 
 <span id="inline-blue">论文发布日期：2017 [ICLR Workshop]<p/span>
 
