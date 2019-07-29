@@ -30,6 +30,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 
 
 
+
 ## ECCV
 * DetNet: A Backbone network for Object Detection  
 * Receptive Field Block Net for Accurate and Fast Object Detection  
