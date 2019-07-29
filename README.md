@@ -89,3 +89,8 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * (**ICANN**) Further advantages of data augmentation on convolutional neural networks 
 * (**WACV**) Understanding Convolution for Semantic Segmentation
 <hr />
+
+
+## 笔记效果
+Written by markdown .Displayed as follow :
+![](http://chaserblog.test.upcdn.net/blogs/paper/paperdaily_readme.png)
