@@ -2,9 +2,9 @@
 Busy with recent things , I'll update without day.
 
 # CV--PaperDaily  
-|  创建人   |  知乎论文专栏 | 个人博客 | 其他相关链接 |
+|  创建人   |  知乎论文阅读专栏 | 个人博客 | 其他相关链接 |
 |  ----  | ----  | ----  | ----  |
-| ming71  | [知乎论文传送门](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996)     
+| ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996)     
 
 Update CV papers here **everday** .<br>
 The content includes but is not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning . Most of papers are published in recent two years <br>
