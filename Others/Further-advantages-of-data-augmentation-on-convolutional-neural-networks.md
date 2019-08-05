@@ -1,3 +1,7 @@
+|  创建人   |  知乎论文阅读专栏 | 个人博客 | 其他相关链接 |
+|  ----  | ----  | ----  | ----  |
+| ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996) 
+
 **顺便mark我的数据增强代码工具（持续更新）：https://github.com/ming71/toolbox/tree/master/data_augmentation**
 
 <span id="inline-blue">论文发布日期：2018 [ICANN]<p/span>

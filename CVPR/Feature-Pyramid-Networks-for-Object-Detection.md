@@ -1,4 +1,6 @@
-
+|  创建人   |  知乎论文阅读专栏 | 个人博客 | 其他相关链接 |
+|  ----  | ----  | ----  | ----  |
+| ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996) 
 review主要做一些再解读和再理解，好的工作反复咀嚼也不为过。
 
 <span id="inline-blue">论文发布日期：2016.12 [CVPR]<p/span>

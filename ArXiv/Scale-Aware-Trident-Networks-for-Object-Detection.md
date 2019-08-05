@@ -1,4 +1,6 @@
-
+|  创建人   |  知乎论文阅读专栏 | 个人博客 | 其他相关链接 |
+|  ----  | ----  | ----  | ----  |
+| ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996) 
 <span id="inline-blue">论文发布日期：2019.1.1<p/span>
 ## 1.Motivation  
 &emsp;&emsp;为了应对尺度不变性，一般有两种方法，各有优劣:
