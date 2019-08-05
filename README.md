@@ -90,7 +90,8 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * (**ICANN**) Further advantages of data augmentation on convolutional neural networks 
 * (**WACV**) Understanding Convolution for Semantic Segmentation
 * (**BMCV**)Enhancement of SSD by concatenating feature maps for object detection 
-* (**Journal of Big Data**)A survey on Image Data Augmentation for Deep Learning  
+* (**Journal of Big Data**) A survey on Image Data Augmentation for Deep Learning 
+* (**DICTA**) Understanding data augmentation for classification: when to warp?
 <hr />
 
 
