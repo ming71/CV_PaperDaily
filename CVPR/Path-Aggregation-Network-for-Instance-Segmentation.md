@@ -3,6 +3,7 @@
 | ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996) 
 
 <span id="inline-blue">论文发布日期：2018.5  [CVPR]<p/span>
+
 ## 1. Motivation
 &emsp;&emsp;在信息自底向上流通过程中，较深的backbone会经过近百层的卷积，底层的定位信息很容易丢失；虽然后来有SSD和FPN，但是前者只是在特定的level上进行detection，后者虽然有融合，较好地改善之前严格层级检测的桎梏，但是也存在一次只在一个尺度特征图上预测的限制。（其实像DenseNet和FPN解决得已经还算可以，所以不好谈及。这里只是想强调利用底层信息的重要性，提出新的改进）
 <!-- more -->
