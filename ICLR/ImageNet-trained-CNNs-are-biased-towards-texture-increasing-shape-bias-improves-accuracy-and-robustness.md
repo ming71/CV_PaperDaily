@@ -1,17 +1,7 @@
----
-title: >-
-  ImageNet-trained CNNs are biased towards texture; increasing shape bias
-  improves accuracy and robustness
-tags: [mechanism]
-date: 2019-08-04 21:03:35
-categories: Papers
-urlname: ImageNet-trained-CNNs-are-biased-towards-texture-increasing-shape-bias-improves-accuracy-and-robustness
-description:
-image: http://chaserblog.test.upcdn.net/blogs/paper/ImageNet-trained-CNNs-are-biased-towards-texture-increasing-shape-bias-improves-accuracy-and-robustness/1.png
-top:
-copyright: true
-comments:
----
+
+|  创建人   |  知乎论文阅读专栏 | 个人博客 | 其他相关链接 |
+|  ----  | ----  | ----  | ----  |
+| ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996) 
 
 
 
