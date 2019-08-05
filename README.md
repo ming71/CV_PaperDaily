@@ -51,6 +51,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 ## ICLR
 * Why do deep convolutional networks generalize so poorly to small image transformations?   
 * Dataset Augmentationin In Feature Space
+* ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness
 <hr />
 
 
