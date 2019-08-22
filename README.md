@@ -83,6 +83,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Bag of Freebies for Training Object Detection Neural Networks
 * The Effectiveness of Data Augmentation in Image Classification using Deep Learning
 * Natural Adversarial Examples
+* Recent Advances in Deep Learning for Object Detection
 <hr />
 
 
