@@ -1,6 +1,7 @@
 # Notice！  
-放暑假回家，停两周 :p
-~~Busy with recent things , I'll update without day.~~
+Keep update.
+~~On vacation...~~
+~~Busy withKeep up to date recent things , I'll update without day.~~
 
 # CV--PaperDaily  
 |  创建人   |  知乎论文阅读专栏 | 个人博客 | 其他相关链接 |
