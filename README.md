@@ -1,6 +1,6 @@
 # Notice！  
-Keep update.
-~~On vacation...~~
+Continuous update.   
+~~On vacation...~~  
 ~~Busy withKeep up to date recent things , I'll update without day.~~
 
 # CV--PaperDaily  
@@ -28,6 +28,8 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Scale-Transferrable Object Detection 
 * DOTA: A Large-scale Dataset for Object Detection in Aerial Images
 * R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection
+* Pseudo Mask Augmented Object Detection
+* Single-Shot Object Detection with Enriched Semantics
 <hr />
 
 
