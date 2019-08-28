@@ -44,6 +44,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 
 ## ICCV
 * Focal Loss for Dense Object Detection  
+* InstaBoost: Boosting Instance Segmentation via Probability Map Guided
 <hr />
 
 
