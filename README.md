@@ -60,16 +60,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 <hr />
 
 
-## ACCV
-* Reverse Densely Connected Feature Pyramid Network for Object Detection   
-<hr />
-
-
-
-## IJCV
-* What Makes Good Synthetic Training Data for Learning Disparity and Optical
-  Flow Estimation?
-<hr />
 
 ## ArXiv   
 * FSSD: Feature Fusion Single Shot Multibox Detector   
@@ -92,13 +82,16 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 <hr />
 
 
-## Ohters
-* (IEEE **Acess**) Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+## Others
+* (**IEEE Acess**) Smart Augmentation: Learning an Optimal Data Augmentation Strategy
 * (**ICANN**) Further advantages of data augmentation on convolutional neural networks 
 * (**WACV**) Understanding Convolution for Semantic Segmentation
 * (**BMCV**)Enhancement of SSD by concatenating feature maps for object detection 
 * (**Journal of Big Data**) A survey on Image Data Augmentation for Deep Learning 
 * (**DICTA**) Understanding data augmentation for classification: when to warp?
+* (**IJCV**) What Makes Good Synthetic Training Data for Learning Disparity and Optical
+  Flow Estimation?
+* (**ACCV**) Reverse Densely Connected Feature Pyramid Network for Object Detection  
 <hr />
 
 
