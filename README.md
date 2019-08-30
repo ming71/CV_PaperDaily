@@ -79,6 +79,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Natural Adversarial Examples
 * Recent Advances in Deep Learning for Object Detection
 * Matrix Nets: A New Deep Architecture for Object Detection
+* Needles in Haystacks: On Classifying Tiny Objects in Large Images
 <hr />
 
 
