@@ -25,7 +25,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade    
 * Path Aggregation Network for Instance Segmentation  
 * Region Proposal by Guided Anchoring    
-* Scale-Transferrable Object Detection 
+* Scale-Transferable Object Detection 
 * DOTA: A Large-scale Dataset for Object Detection in Aerial Images
 * R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection
 * Pseudo Mask Augmented Object Detection
@@ -44,8 +44,9 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 
 
 ## ICCV
-* Focal Loss for Dense Object Detection  
-* InstaBoost: Boosting Instance Segmentation via Probability Map Guided
+* Focal Loss for Dense Object Detection   
+* InstaBoost: Boosting Instance Segmentation via Probability Map Guided  
+* Scale-Aware Trident Networks for Object Detection  
 <hr />
 
 
@@ -64,8 +65,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 
 ## ArXiv   
 * FSSD: Feature Fusion Single Shot Multibox Detector   
-* MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects    
-* Scale-Aware Trident Networks for Object Detection  
+* MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects       
 * ThunderNet:Towards Real-time Generic Object Detection  
 * MMDetection: Open MMLab Detection Toolbox and Benchmark  
 * Double-Head RCNN: Rethinking Classification and Localization for Object Detection  
