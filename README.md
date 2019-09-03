@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-﻿# Notice！  
-~~Continuous update.~~  
-=======
+
 # Notice！  
 ~~Continuous update.~~   
 >>>>>>> db8b130c0c5f8a1e14c322e4f99dc2e912034c8e
