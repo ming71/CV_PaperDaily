@@ -85,7 +85,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 
 
 ## Others
-* (**IEEE Acess**) Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+* (**Acess**) Smart Augmentation: Learning an Optimal Data Augmentation Strategy
 * (**ICANN**) Further advantages of data augmentation on convolutional neural networks 
 * (**WACV**) Understanding Convolution for Semantic Segmentation
 * (**BMCV**)Enhancement of SSD by concatenating feature maps for object detection 
@@ -93,7 +93,8 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * (**DICTA**) Understanding data augmentation for classification: when to warp?
 * (**IJCV**) What Makes Good Synthetic Training Data for Learning Disparity and Optical
   Flow Estimation?
-* (**ACCV**) Reverse Densely Connected Feature Pyramid Network for Object Detection  
+* (**ACCV**) Reverse Densely Connected Feature Pyramid Network for Object Detection   
+* (**IJAC**) An Overview of Contour Detection Approaches   
 <hr />
 
 
