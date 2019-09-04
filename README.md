@@ -5,9 +5,9 @@
 Busy withKeep up to date recent things , I'll update without day.
 
 # CV--PaperDaily  
-|  创建人   |  知乎论文阅读专栏 | 个人博客 | 
-|  ----  | ----  | ----  | 
-| ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |       
+|  创建人   |  知乎论文阅读专栏 | 个人博客 | 其他相关链接 |
+|  ----  | ----  | ----  | ----  |
+| ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996)     
 
 Update CV papers here **everday** .<br>
 The content includes but is not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning . Most of papers are published in recent two years <br>
@@ -59,7 +59,8 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 ## ICLR
 * Why do deep convolutional networks generalize so poorly to small image transformations?   
 * Dataset Augmentationin In Feature Space
-* ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness
+* ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
+* Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
 <hr />
 
 
