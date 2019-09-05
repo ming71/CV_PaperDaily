@@ -18,28 +18,21 @@
 ## 2. Focal Loss  
 &emsp;&emsp;首先是最原始的二分类交叉熵，在label为1和非1两种情况分别采用不同的loss。gt为1时，预测的1概率越大loss越小；gt不为1时，预测的1概率越大loss越大；
 <center><img src="http://chaserblog.test.upcdn.net/blogs/paper/Focal-Loss/format1.png" alt="" style="width:40%" /></center>
-
 &emsp;&emsp;然后采用了一个标记，简化了上述表示：   
 <center><img src="http://chaserblog.test.upcdn.net/blogs/paper/Focal-Loss/format2.png" alt="" style="width:30%" /></center>
-
 &emsp;&emsp;使得CE损失直接为：        
 <center><img src="http://chaserblog.test.upcdn.net/blogs/paper/Focal-Loss/format3.png" alt="" style="width:35%" /></center>
-
 &emsp;&emsp;改进CE使得loss能够对正负样本区别对待如下。其中at和pt一样是分段函数，形式也是相同的（y=1时，at=a，否则at=1-a），在类别1的样本特别多时，选取a在[0,0.5]降低其loss贡献权重，实际实验取得0.25。  
 <center><img src="http://chaserblog.test.upcdn.net/blogs/paper/Focal-Loss/format4.png" alt="" style="width:25%" /></center>
-
 &emsp;&emsp;上述公式可以敏感正负样本，但是无法处理难分样本，于是有了对CE的下面改进。实验中发现gamma=2效果最好。易分样本的得分要么很高（正样本）要么很低（负样本），但是统一在pt上都表现为pt很大，那么乘以权值1-pt后，下面loss中贡献的损失就很小；而难分样本往往pt在0.5左右摇摆，其loss贡献相对就大了。（确实是这样，难分样本可以分为正负两种，正的来说，是网络不确定是不是正类，那么给分例如会在0.5-0.7；负的错分样本既然是错分，也不会太相信，所以也是0.3-0.6这样，而不大可能是0.1得分的正类）        
 <center><img src="http://chaserblog.test.upcdn.net/blogs/paper/Focal-Loss/format5.png" alt="" style="width:35%" /></center>
-
 &emsp;&emsp;实际使用是综合正负样本和难易分样本得到的FL如下：  
 <center><img src="http://chaserblog.test.upcdn.net/blogs/paper/Focal-Loss/format6.png" alt="" style="width:40%" /></center>
-
 
 ## 3. RetinaNet Detector
 
 &emsp;&emsp;没有特别的创新，就是简单的ResNet+FPN单阶段检测器。实现细节和参数设置不赘述。实验也不解读了，暂时不感兴趣。
 <center><img src="http://chaserblog.test.upcdn.net/blogs/paper/Focal-Loss/str1.png" alt="" style="width:90%" /></center>
-
 ## Conclusion
 * 注意不平衡问题，这个应该有启发
 * 单阶段检测网络使用focal loss会有一定效果，而两阶段本身能够通过RPN，OHEM等方式对类别不均衡具有一定的抵抗能力
@@ -49,4 +42,5 @@
 
 <br>
 <br>
+
 <hr />
