@@ -17,7 +17,6 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 ## AAAI 
 M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
 <hr />
-
 ## CVPR
 * Assisted Excitation of Activations: A Learning Technique to Improve Object    
 * Borrow from Anywhere Pseudo Multi-modal Object Detection in Thermal Imagery  
@@ -35,7 +34,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 
 
 
-
 ## ECCV
 * DetNet: A Backbone network for Object Detection  
 * Receptive Field Block Net for Accurate and Fast Object Detection  
@@ -43,18 +41,16 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 <hr />
 
 
-
 ## ICCV
 * Focal Loss for Dense Object Detection   
 * InstaBoost: Boosting Instance Segmentation via Probability Map Guided  
 * Scale-Aware Trident Networks for Object Detection  
+* EGNet: Edge Guidance Network for Salient Object Detection  
 <hr />
-
 
 ## ICML
 * Making Convolutional Networks Shift-Invariant Again     
 <hr />
-
 
 ## ICLR
 * Why do deep convolutional networks generalize so poorly to small image transformations?   
@@ -62,7 +58,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
 * Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
 <hr />
-
 
 
 ## ArXiv   
@@ -85,7 +80,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Needles in Haystacks: On Classifying Tiny Objects in Large Images
 <hr />
 
-
 ## Others
 * (**Acess**) Smart Augmentation: Learning an Optimal Data Augmentation Strategy
 * (**ICANN**) Further advantages of data augmentation on convolutional neural networks 
@@ -98,7 +92,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * (**ACCV**) Reverse Densely Connected Feature Pyramid Network for Object Detection   
 * (**IJAC**) An Overview of Contour Detection Approaches   
 <hr />
-
 <!-- 
 ## 笔记效果
 Written by markdown .Displayed as follow :
