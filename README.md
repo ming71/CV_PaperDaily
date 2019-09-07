@@ -34,14 +34,12 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Single-Shot Object Detection with Enriched Semantics
 <hr />
 
-
 ## ECCV
 * DetNet: A Backbone network for Object Detection  
 * Receptive Field Block Net for Accurate and Fast Object Detection  
 * Modeling Visual Context is Key to Augmenting Object Detection Datasets  
 * Contextual Priming and Feedback for Faster R-CNN  
 <hr />
-
 ## ICCV
 * Focal Loss for Dense Object Detection   
 * InstaBoost: Boosting Instance Segmentation via Probability Map Guided  
@@ -57,7 +55,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
 * Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
 <hr />
-
 ## ArXiv   
 * FSSD: Feature Fusion Single Shot Multibox Detector   
 * MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects       
@@ -78,16 +75,17 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Needles in Haystacks: On Classifying Tiny Objects in Large Images
 <hr />
 ## Others
-* (**Acess**) Smart Augmentation: Learning an Optimal Data Augmentation Strategy
-* (**ICANN**) Further advantages of data augmentation on convolutional neural networks 
-* (**WACV**) Understanding Convolution for Semantic Segmentation
-* (**BMCV**)Enhancement of SSD by concatenating feature maps for object detection 
-* (**Journal of Big Data**) A survey on Image Data Augmentation for Deep Learning 
-* (**DICTA**) Understanding data augmentation for classification: when to warp?
-* (**IJCV**) What Makes Good Synthetic Training Data for Learning Disparity and Optical
+* (**Acess**)  Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+* (**ICANN**)  Further advantages of data augmentation on convolutional neural networks 
+* (**WACV**)  Understanding Convolution for Semantic Segmentation
+* (**BMCV**)  Enhancement of SSD by concatenating feature maps for object detection 
+* (**Big Data**)  A survey on Image Data Augmentation for Deep Learning 
+* (**DICTA**)  Understanding data augmentation for classification: when to warp?
+* (**IJCV**)  What Makes Good Synthetic Training Data for Learning Disparity and Optical
   Flow Estimation?
-* (**ACCV**) Reverse Densely Connected Feature Pyramid Network for Object Detection   
-* (**IJAC**) An Overview of Contour Detection Approaches   
+* (**ACCV**)  Reverse Densely Connected Feature Pyramid Network for Object Detection   
+* (**IJAC**)  An Overview of Contour Detection Approaches   
+* (**ICIP**)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
 <hr />
 <!-- 
 ## 笔记效果
