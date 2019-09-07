@@ -19,7 +19,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 ## AAAI 
 M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
 <hr />
-## CVPR  
+
+## CVPR
 * Assisted Excitation of Activations: A Learning Technique to Improve Object    
 * Borrow from Anywhere Pseudo Multi-modal Object Detection in Thermal Imagery  
 * Cascade R-CNN: Delving into High Quality Object Detection   
@@ -33,12 +34,13 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Pseudo Mask Augmented Object Detection
 * Single-Shot Object Detection with Enriched Semantics
 <hr />
-## ECCV  
+## ECCV
 * DetNet: A Backbone network for Object Detection  
 * Receptive Field Block Net for Accurate and Fast Object Detection  
 * Modeling Visual Context is Key to Augmenting Object Detection Datasets  
 * Contextual Priming and Feedback for Faster R-CNN  
 <hr />
+
 ## ICCV  
 * Focal Loss for Dense Object Detection   
 * InstaBoost: Boosting Instance Segmentation via Probability Map Guided  
