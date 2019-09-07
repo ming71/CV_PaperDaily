@@ -19,7 +19,6 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 ## AAAI 
 M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
 <hr />
-
 ## CVPR
 * Assisted Excitation of Activations: A Learning Technique to Improve Object    
 * Borrow from Anywhere Pseudo Multi-modal Object Detection in Thermal Imagery  
@@ -34,36 +33,31 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Pseudo Mask Augmented Object Detection
 * Single-Shot Object Detection with Enriched Semantics
 <hr />
-
 ## ECCV
 * DetNet: A Backbone network for Object Detection  
 * Receptive Field Block Net for Accurate and Fast Object Detection  
 * Modeling Visual Context is Key to Augmenting Object Detection Datasets  
 * Contextual Priming and Feedback for Faster R-CNN  
 <hr />
-
 ## ICCV
 * Focal Loss for Dense Object Detection   
 * InstaBoost: Boosting Instance Segmentation via Probability Map Guided  
 * Scale-Aware Trident Networks for Object Detection  
 * EGNet: Edge Guidance Network for Salient Object Detection  
+* ThunderNet: Towards Real-time Generic Object Detection  
 <hr />
-
 ## ICML
 * Making Convolutional Networks Shift-Invariant Again     
 <hr />
-
 ## ICLR  
 * Why do deep convolutional networks generalize so poorly to small image transformations?   
 * Dataset Augmentationin In Feature Space
 * ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
 * Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
 <hr />
-
 ## ArXiv   
 * FSSD: Feature Fusion Single Shot Multibox Detector   
 * MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects       
-* ThunderNet:Towards Real-time Generic Object Detection  
 * MMDetection: Open MMLab Detection Toolbox and Benchmark  
 * Double-Head RCNN: Rethinking Classification and Localization for Object Detection  
 * Learning Data Augmentation Strategies for Object Detection  
@@ -79,7 +73,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * Matrix Nets: A New Deep Architecture for Object Detection
 * Needles in Haystacks: On Classifying Tiny Objects in Large Images
 <hr />
-
 ## Others
 * (**Acess**)  Smart Augmentation: Learning an Optimal Data Augmentation Strategy
 * (**ICANN**)  Further advantages of data augmentation on convolutional neural networks 
@@ -93,7 +86,6 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * (**IJAC**)  An Overview of Contour Detection Approaches   
 * (**ICIP**)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
 <hr />
-
 <!-- 
 ## 笔记效果
 Written by markdown .Displayed as follow :

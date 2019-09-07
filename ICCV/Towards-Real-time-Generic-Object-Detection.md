@@ -2,7 +2,7 @@
 |  ----  | ----  | ----  | ----  |
 | ming71  | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |   [CSDN](https://blog.csdn.net/mingqi1996) 
 
-<span id="inline-blue">论文发布日期：2019.3<p/span>
+<span id="inline-blue">论文发布日期：2019.3 [ ICCV 2019]<p/span>
 
 ## 1. Motivation  
 &emsp;&emsp;进一步减小计算开销，使得两阶段的检测网络能够在移动嵌入式设备上实现实时运行。CNN可分为backbone和detect head两部分，从两个角度同时改进，提取更好的特征，更有效检测目标的同时轻量化网络。
@@ -10,7 +10,7 @@
 
 ## 2. ThunderNet  
 <img src="http://chaserblog.test.upcdn.net/blogs/paper/ThunderNet/Net.png" alt="" style="width:90%" />
- 
+
 ### 2.1 Backbone Part
 * **Input Resolution**
 &emsp;&emsp;两阶段检测器为了获得较好的效果输入一般尺寸大于800像素，这里为了速度起见输入为320*320。作者还有一个观察：**输入分辨率应该match模型的体量，两者不匹配效果都不好**。（很好理解也很关键，在设计输入resize时需要注意这一点） 
@@ -37,7 +37,8 @@
 &emsp;&emsp;思想：希望检测的特征图能够更多关注前景忽略背景，而<u>**RPN训练了物体的前景背景二分类，融合利用RPN的分类信息可以帮助特征图聚焦前景**</u>。        
 &emsp;&emsp;实现方法：对RPN通道变换(这里为了减少计算用的1x1)和CEM输出的245通道一致，然后接BN，再用sigmoid将参数归一化后作为权值乘到CEM特征图上进行加权。实现了对RPN前景背景信息的利用。额外的好处在于由于信息的融合，反向传播时，RCNN子网络也会帮助监督RPN的训练。  
 <img src="http://chaserblog.test.upcdn.net/blogs/paper/ThunderNet/str2.png" alt="" style="width:70%" />          
-&emsp;&emsp;个人想法：首先，其实这就是个两个特征图的通道变换然后归一后product，搞得很复杂的样子.....主要是这个操作反映**一个问题**：你说RPN有前景背景信息是没错，可是怎么利用这个信息呢？不知道，那就干脆整个特征图加权乘过去吧~~！这不是胡来吗....你根本不知道哪部分信息是有用的，以及怎么用，直接整个就挪过去。所以这都是瞎试，说得通就完事了...~~<font color=red>这类问题的共性是：**思路很好，但是问题很大**</font>，而很多工作都是这样的，比如**guided anchor**。
+
+
 
 
 ## 3. Ablation Study
