@@ -33,6 +33,7 @@ M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid
 * R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection
 * Pseudo Mask Augmented Object Detection
 * Single-Shot Object Detection with Enriched Semantics
+* Weakly Supervised Instance Segmentation using Class Peak Response
 <hr />
 
 ## ECCV
