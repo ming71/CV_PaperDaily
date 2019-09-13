@@ -15,7 +15,7 @@ Update CV papers here **everday** .<br>
 The content includes but is not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning . Most of papers are published in recent two years <br>
 Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 
-# Paper reading divided by conference
+# Paper reading divided by Conference & Journal  
 ## AAAI 
 * M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
 * Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network  
@@ -86,7 +86,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * Natural Adversarial Examples
 * Recent Advances in Deep Learning for Object Detection
 * Matrix Nets: A New Deep Architecture for Object Detection
-* Needles in Haystacks: On Classifying Tiny Objects in Large Images
+* Needles in Haystacks: On Classifying Tiny Objects in Large Images  
+* CBNet: A Novel Composite Backbone Network Architecture for Object Detection
 <hr />
 <br>
 
