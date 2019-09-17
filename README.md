@@ -36,7 +36,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection
 * Pseudo Mask Augmented Object Detection
 * Single-Shot Object Detection with Enriched Semantics
-* Weakly Supervised Instance Segmentation using Class Peak Response
+* Weakly Supervised Instance Segmentation using Class Peak Response  
+* Learning Deep Features for Discriminative Localization  
 <hr />
 <br>
 
