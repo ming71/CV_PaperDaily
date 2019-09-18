@@ -38,6 +38,7 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * Single-Shot Object Detection with Enriched Semantics
 * Weakly Supervised Instance Segmentation using Class Peak Response  
 * Learning Deep Features for Discriminative Localization  
+* Simple Does It: Weakly Supervised Instance and Semantic Segmentation  
 <hr />
 <br>
 
