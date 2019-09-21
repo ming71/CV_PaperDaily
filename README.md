@@ -40,6 +40,7 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * Learning Deep Features for Discriminative Localization  
 * Simple Does It: Weakly Supervised Instance and Semantic Segmentation  
 * Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations  
+* Panoptic Segmentation  
 <hr />
 <br>
 
