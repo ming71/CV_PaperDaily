@@ -98,17 +98,18 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 <br>
 
 ## Others  
-* (**Acess**)  Smart Augmentation: Learning an Optimal Data Augmentation Strategy
-* (**ICANN**)  Further advantages of data augmentation on convolutional neural networks 
-* (**WACV**)  Understanding Convolution for Semantic Segmentation
-* (**BMCV**)  Enhancement of SSD by concatenating feature maps for object detection 
-* (**Big Data**)  A survey on Image Data Augmentation for Deep Learning 
-* (**DICTA**)  Understanding data augmentation for classification: when to warp?
-* (**IJCV**)  What Makes Good Synthetic Training Data for Learning Disparity and Optical
+* (Acess)  Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+* (ICANN)  Further advantages of data augmentation on convolutional neural networks 
+* (WACV)  Understanding Convolution for Semantic Segmentation
+* (BMCV)  Enhancement of SSD by concatenating feature maps for object detection 
+* (Big Data)  A survey on Image Data Augmentation for Deep Learning 
+* (DICTA)  Understanding data augmentation for classification: when to warp?
+* (IJCV)  What Makes Good Synthetic Training Data for Learning Disparity and Optical
   Flow Estimation?
-* (**ACCV**)  Reverse Densely Connected Feature Pyramid Network for Object Detection   
-* (**IJAC**)  An Overview of Contour Detection Approaches   
-* (**ICIP**)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
+* (ACCV)  Reverse Densely Connected Feature Pyramid Network for Object Detection   
+* (IJAC)  An Overview of Contour Detection Approaches   
+* (ICIP)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
+* (Remote Sensing)  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks  
 <hr />
 <!-- 
 ## 笔记效果
