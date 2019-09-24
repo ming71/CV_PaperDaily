@@ -40,7 +40,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * Learning Deep Features for Discriminative Localization  
 * Simple Does It: Weakly Supervised Instance and Semantic Segmentation  
 * Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations  
-* Panoptic Segmentation  
+* Panoptic Segmentation   
+* Learning Instance Activation Maps for Weakly Supervised Instance Segmentation  
 <hr />
 <br>
 
@@ -111,6 +112,7 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * (ICIP)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
 * (Remote Sensing)  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks  
 <hr />
+
 <!-- 
 ## 笔记效果
 Written by markdown .Displayed as follow :
