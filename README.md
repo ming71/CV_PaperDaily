@@ -95,6 +95,7 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * Matrix Nets: A New Deep Architecture for Object Detection
 * Needles in Haystacks: On Classifying Tiny Objects in Large Images  
 * CBNet: A Novel Composite Backbone Network Architecture for Object Detection
+* Light-Head R-CNN: In Defense of Two-Stage Object Detector  
 <hr />
 <br>
 
