@@ -2,7 +2,8 @@
 # Notice！  
 ~~Continuous update.~~   
 ~~On vacation...~~  
-Busy withKeep up to date recent things , I'll update without day.
+Busy with recent things , I'll update without day.
+
 
 # CV--PaperDaily  
 | 创建人 |                       知乎论文阅读专栏                       |              个人博客               | 其他                                     |
@@ -113,7 +114,6 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * (ICIP)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
 * (Remote Sensing)  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks  
 <hr />
-
 <!-- 
 ## 笔记效果
 Written by markdown .Displayed as follow :
