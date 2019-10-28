@@ -113,7 +113,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * (ACCV)  Reverse Densely Connected Feature Pyramid Network for Object Detection   
 * (IJAC)  An Overview of Contour Detection Approaches   
 * (ICIP)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
-* (Remote Sensing)  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks  
+* (Remote Sensing)  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks
+* (Multimedia)  Arbitrary-oriented scene text detection via rotation proposals  
 <hr />
 <!-- 
 ## 笔记效果
