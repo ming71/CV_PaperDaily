@@ -118,7 +118,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * (ICIP)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
 * (Remote Sensing)  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks
 * (Multimedia)  Arbitrary-oriented scene text detection via rotation proposals  
-* (NIPS)  R-FCN： Object Detection via Region-based Fully Convolutional Networks
+* (NIPS)  R-FCN： Object Detection via Region-based Fully Convolutional Networks  
+* Neural Architecture Search: A Survey
 <hr />
 <!-- 
 ## 笔记效果
