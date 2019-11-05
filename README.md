@@ -43,7 +43,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations  
 * Panoptic Segmentation   
 * Learning Instance Activation Maps for Weakly Supervised Instance Segmentation  
-* Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression  
+* Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression    
+* Single-Shot Refinement Neural Network for Object Detection  
 <hr />
 <br>
 
