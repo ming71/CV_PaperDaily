@@ -64,7 +64,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * EGNet: Edge Guidance Network for Salient Object Detection  
 * ThunderNet: Towards Real-time Generic Object Detection  
 * Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection  
-* FCOS: Fully Convolutional One-Stage Object Detection  
+* FCOS: Fully Convolutional One-Stage Object Detection    
+* Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving  
 <hr />
 <br>
 
