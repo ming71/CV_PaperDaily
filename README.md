@@ -53,7 +53,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * Receptive Field Block Net for Accurate and Fast Object Detection  
 * Modeling Visual Context is Key to Augmenting Object Detection Datasets  
 * Contextual Priming and Feedback for Faster R-CNN  
-* Learning to Segment via Cut-and-Paste  
+* Learning to Segment via Cut-and-Paste   
+* Acquisition of Localization Confidence for Accurate Object Detection
 <hr />
 <br>
 
