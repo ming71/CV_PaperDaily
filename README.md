@@ -72,6 +72,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 
 ## ICML  
 * Making Convolutional Networks Shift-Invariant Again     
+* How much real data do we actually need: Analyzing object detection performance
+  using synthetic and real data (workshop)
 <hr />
 <br>
 
@@ -92,8 +94,6 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * A Preliminary Study on Data Augmentation of Deep Learning for Image Classification  
 * Improved Regularization of Convolutional Neural Networks with Cutout
 * Data Augmentation by Pairing Samples for Images Classification
-* How much real data do we actually need: Analyzing object detection performance
-  using synthetic and real data
 * Bag of Freebies for Training Object Detection Neural Networks
 * The Effectiveness of Data Augmentation in Image Classification using Deep Learning
 * Natural Adversarial Examples
