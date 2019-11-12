@@ -1,8 +1,8 @@
 
 # Notice！  
-~~Continuous update.~~   
-~~On vacation...~~  
 Busy with recent things , I'll update without day.
+
+Notes are attached to raw PDF files  from now on . 
 
 
 # CV--PaperDaily  
@@ -13,10 +13,12 @@ Busy with recent things , I'll update without day.
 
 
 Update CV papers here **everday** .<br>
-The content includes but is not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning . Most of papers are published in recent two years <br>
-Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
+The content includes but is not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning .  <br>Comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 
-# Paper reading divided by Conference & Journal  
+# Paper reading 
+
+Divided by Conference & Journal .  
+
 ## AAAI 
 * M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
 * Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network  
@@ -122,7 +124,8 @@ Your comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 * (Remote Sensing)  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks
 * (Multimedia)  Arbitrary-oriented scene text detection via rotation proposals  
 * (NIPS)  R-FCN： Object Detection via Region-based Fully Convolutional Networks  
-* Neural Architecture Search: A Survey
+* (JMLR)  Neural Architecture Search: A Survey
+* (OCEANS)  Ship Detection: An Improved YOLOv3 Method
 <hr />
 <!-- 
 ## 笔记效果
