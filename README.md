@@ -105,7 +105,8 @@ Divided by Conference & Journal .
 * CBNet: A Novel Composite Backbone Network Architecture for Object Detection
 * Light-Head R-CNN: In Defense of Two-Stage Object Detector  
 * R3Det Refined Single-Stage Detector with Feature Refinement for Rotating Object  
-* Beyond Skip Connections: Top-Down Modulation for Object Detection   
+* Beyond Skip Connections: Top-Down Modulation for Object Detection    
+* Deep Learning for 2D and 3D Rotatable Data An Overview of Methods  
 <hr />
 <br>
 
