@@ -126,7 +126,8 @@ Divided by Conference & Journal .
 * (Multimedia)  Arbitrary-oriented scene text detection via rotation proposals  
 * (NIPS)  R-FCN： Object Detection via Region-based Fully Convolutional Networks  
 * (JMLR)  Neural Architecture Search: A Survey
-* (OCEANS)  Ship Detection: An Improved YOLOv3 Method
+* (OCEANS)  Ship Detection: An Improved YOLOv3 Method  
+* (VISIGRAPP)  Learning Transformation Invariant Representations with Weak Supervision  
 <hr />
 <!-- 
 ## 笔记效果
