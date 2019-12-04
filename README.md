@@ -129,6 +129,7 @@ Divided by Conference & Journal .
 * (JMLR)  Neural Architecture Search: A Survey
 * (OCEANS)  Ship Detection: An Improved YOLOv3 Method  
 * (VISIGRAPP)  Learning Transformation Invariant Representations with Weak Supervision  
+* (ICDAR)  ICDAR 2015 competition on Robust Reading
 <hr />
 <!-- 
 ## 笔记效果
