@@ -47,7 +47,8 @@ Divided by Conference & Journal .
 * Learning Instance Activation Maps for Weakly Supervised Instance Segmentation  
 * Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression    
 * Single-Shot Refinement Neural Network for Object Detection  
-* ScratchDet : Training Single-Shot Object Detectors  
+* ScratchDet : Training Single-Shot Object Detectors    
+* Squeeze-and-Excitation Networks  
 <hr />
 <br>
 
