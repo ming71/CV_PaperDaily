@@ -22,6 +22,7 @@ Divided by Conference & Journal .
 ## AAAI 
 * M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
 * Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network  
+* Gradient Harmonized Single-stage Detector  
 
 <hr />
 <br>
