@@ -49,7 +49,8 @@ Divided by Conference & Journal .
 * Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression    
 * Single-Shot Refinement Neural Network for Object Detection  
 * ScratchDet : Training Single-Shot Object Detectors    
-* Squeeze-and-Excitation Networks  
+* Squeeze-and-Excitation Networks   
+* Dual Attention Network for Scene Segmentation  
 <hr />
 <br>
 
