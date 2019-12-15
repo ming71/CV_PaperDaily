@@ -111,7 +111,8 @@ Divided by Conference & Journal .
 * R3Det Refined Single-Stage Detector with Feature Refinement for Rotating Object  
 * Beyond Skip Connections: Top-Down Modulation for Object Detection    
 * Deep Learning for 2D and 3D Rotatable Data An Overview of Methods   
-* Is Sampling Heuristics Necessary in Training Deep Object Detectors  
+* Is Sampling Heuristics Necessary in Training Deep Object Detectors   
+* A Real-Time Scene Text Detector with Learned Anchor  
 <hr />
 <br>
 
