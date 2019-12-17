@@ -51,6 +51,7 @@ Divided by Conference & Journal .
 * ScratchDet : Training Single-Shot Object Detectors    
 * Squeeze-and-Excitation Networks   
 * Dual Attention Network for Scene Segmentation  
+* An Analysis of Scale Invariance in Object Detection  
 <hr />
 <br>
 
