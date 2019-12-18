@@ -52,6 +52,7 @@ Divided by Conference & Journal .
 * Squeeze-and-Excitation Networks   
 * Dual Attention Network for Scene Segmentation  
 * An Analysis of Scale Invariance in Object Detection  
+* Rotation Sensitive Regression for Oriented Scene   Text Detection    
 <hr />
 <br>
 
