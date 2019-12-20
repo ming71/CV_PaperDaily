@@ -116,6 +116,7 @@ Divided by Conference & Journal .
 * Deep Learning for 2D and 3D Rotatable Data An Overview of Methods   
 * Is Sampling Heuristics Necessary in Training Deep Object Detectors   
 * A Real-Time Scene Text Detector with Learned Anchor  
+* RAM: Residual Attention Module for Single Image Super-Resolution    
 <hr />
 <br>
 
