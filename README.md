@@ -75,7 +75,8 @@ Divided by Conference & Journal .
 * ThunderNet: Towards Real-time Generic Object Detection  
 * Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection  
 * FCOS: Fully Convolutional One-Stage Object Detection    
-* Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving  
+* Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving   
+* Single Shot Text Detector with Regional Attention  
 <hr />
 <br>
 
