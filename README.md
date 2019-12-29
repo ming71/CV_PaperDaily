@@ -125,7 +125,7 @@ Divided by Conference & Journal .
 * (Acess)  Smart Augmentation: Learning an Optimal Data Augmentation Strategy
 * (ICANN)  Further advantages of data augmentation on convolutional neural networks 
 * (WACV)  Understanding Convolution for Semantic Segmentation
-* (BMCV)  Enhancement of SSD by concatenating feature maps for object detection 
+* (BMVC)  Enhancement of SSD by concatenating feature maps for object detection 
 * (Big Data)  A survey on Image Data Augmentation for Deep Learning 
 * (DICTA)  Understanding data augmentation for classification: when to warp?
 * (IJCV)  What Makes Good Synthetic Training Data for Learning Disparity and Optical
@@ -139,7 +139,8 @@ Divided by Conference & Journal .
 * (JMLR)  Neural Architecture Search: A Survey
 * (OCEANS)  Ship Detection: An Improved YOLOv3 Method  
 * (VISIGRAPP)  Learning Transformation Invariant Representations with Weak Supervision  
-* (ICDAR)  ICDAR 2015 competition on Robust Reading
+* (ICDAR)  ICDAR 2015 competition on Robust Reading  
+* (BMVC)  Rethinking Classification and Localization for Cascade R-CNN  
 <hr />
 <!-- 
 ## 笔记效果
