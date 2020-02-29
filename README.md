@@ -119,6 +119,7 @@ Divided by Conference & Journal .
 * Is Sampling Heuristics Necessary in Training Deep Object Detectors   
 * A Real-Time Scene Text Detector with Learned Anchor  
 * RAM: Residual Attention Module for Single Image Super-Resolution    
+* Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 <hr />
 <br>
 
