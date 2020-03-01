@@ -54,6 +54,7 @@ Divided by Conference & Journal .
 * An Analysis of Scale Invariance in Object Detection  
 * Rotation Sensitive Regression for Oriented Scene  Text Detection   
 * Oriented Response Networks   
+* PolarMask : Single Shot Instance Segmentation with Polar Representation
 <hr />
 <br>
 
