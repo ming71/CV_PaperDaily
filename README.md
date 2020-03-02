@@ -121,6 +121,7 @@ Divided by Conference & Journal .
 * A Real-Time Scene Text Detector with Learned Anchor  
 * RAM: Residual Attention Module for Single Image Super-Resolution    
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
+* Cross-layer Feature Pyramid Network for Salient Object Detection
 <hr />
 <br>
 
