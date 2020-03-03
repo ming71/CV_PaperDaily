@@ -145,6 +145,7 @@ Divided by Conference & Journal .
 * (VISIGRAPP)  Learning Transformation Invariant Representations with Weak Supervision  
 * (ICDAR)  ICDAR 2015 competition on Robust Reading  
 * (BMVC)  Rethinking Classification and Localization for Cascade R-CNN  
+* (IEEE Trans Geosci Remote Sens)CAD-Net: A Context-Aware Detection Network for Objects in Remote Sensing Imagery
 <hr />
 <!-- 
 ## 笔记效果
