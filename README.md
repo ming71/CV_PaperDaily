@@ -122,6 +122,7 @@ Divided by Conference & Journal .
 * RAM: Residual Attention Module for Single Image Super-Resolution    
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 * Cross-layer Feature Pyramid Network for Salient Object Detection
+* IENet: Interacting Embranchment One Stage Anchor Free Detector for Orientation Aerial Object Detection
 <hr />
 <br>
 
@@ -147,7 +148,3 @@ Divided by Conference & Journal .
 * (BMVC)  Rethinking Classification and Localization for Cascade R-CNN  
 * (IEEE Trans Geosci Remote Sens)CAD-Net: A Context-Aware Detection Network for Objects in Remote Sensing Imagery
 <hr />
-<!-- 
-## 笔记效果
-Written by markdown .Displayed as follow :
-![](http://chaserblog.test.upcdn.net/blogs/paper/paperdaily_readme.png) -->
