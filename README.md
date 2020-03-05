@@ -94,6 +94,7 @@ Divided by Conference & Journal .
 * Dataset Augmentationin In Feature Space
 * ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
 * Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
+* Multi-Scale Dense Convolutional Networks for Efficient Prediction
 <hr />
 <br>
 
