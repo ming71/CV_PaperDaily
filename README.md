@@ -55,6 +55,7 @@ Divided by Conference & Journal .
 * Rotation Sensitive Regression for Oriented Scene  Text Detection   
 * Oriented Response Networks   
 * PolarMask : Single Shot Instance Segmentation with Polar Representation
+* Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection
 <hr />
 <br>
 
