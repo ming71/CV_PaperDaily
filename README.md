@@ -87,6 +87,7 @@ Divided by Conference & Journal .
 * Making Convolutional Networks Shift-Invariant Again     
 * How much real data do we actually need: Analyzing object detection performance
   using synthetic and real data (workshop)
+* Curriculum learning
 <hr />
 <br>
 
