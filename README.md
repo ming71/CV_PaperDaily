@@ -127,6 +127,7 @@ Divided by Conference & Journal .
 * Cross-layer Feature Pyramid Network for Salient Object Detection
 * IENet: Interacting Embranchment One Stage Anchor Free Detector for Orientation Aerial Object Detection
 * FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings
+* Objects detection for remote sensing images based on polar coordinates
 <hr />
 <br>
 
