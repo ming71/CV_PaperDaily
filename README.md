@@ -56,6 +56,7 @@ Divided by Conference & Journal .
 * Oriented Response Networks   
 * PolarMask : Single Shot Instance Segmentation with Polar Representation
 * Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection
+* Spatial-aware Graph Relation Network for Large-scale Object Detection
 <hr />
 <br>
 
