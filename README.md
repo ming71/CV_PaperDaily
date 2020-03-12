@@ -81,6 +81,7 @@ Divided by Conference & Journal .
 * Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving   
 * Single Shot Text Detector with Regional Attention  
 * Towards More Robust Detection for Small, Cluttered and Rotated Objects
+* Dynamic Multi-scale Filters for Semantic Segmentation
 <hr />
 <br>
 
