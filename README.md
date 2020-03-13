@@ -6,7 +6,7 @@ Notes are attached to raw PDF files  from now on .
 
 
 # CV--PaperDaily  
-| 创建人 |                       知乎论文阅读专栏                       |              个人博客               | 其他                                     |
+|        |                       知乎论文阅读专栏                       |              个人博客               | 其他                                     |
 | :----: | :----------------------------------------------------------: | :---------------------------------: | ---------------------------------------- |
 | ming71 | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) | [CSDN](https://blog.csdn.net/mingqi1996) |
 
@@ -17,141 +17,147 @@ The content includes but is not limited to **Object detection** , **Semantic seg
 
 # Paper reading 
 
-Divided by Conference & Journal .  
+~~Divided by Conference & Journal .~~
 
-## AAAI 
-* M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
-* Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network  
-* Gradient Harmonized Single-stage Detector  
+Reordered via year from now on, unclassified papers are  preprints on  arXiv .
 
-<hr />
-<br>
+---
 
-## CVPR
-* Assisted Excitation of Activations: A Learning Technique to Improve Object    
-* Borrow from Anywhere Pseudo Multi-modal Object Detection in Thermal Imagery  
-* Cascade R-CNN: Delving into High Quality Object Detection   
-* Feature Pyramid Networks for Object Detection   
-* Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade    
-* Path Aggregation Network for Instance Segmentation  
-* Region Proposal by Guided Anchoring    
-* Scale-Transferable Object Detection 
-* DOTA: A Large-scale Dataset for Object Detection in Aerial Images
-* R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection
-* Pseudo Mask Augmented Object Detection
-* Single-Shot Object Detection with Enriched Semantics
-* Weakly Supervised Instance Segmentation using Class Peak Response  
-* Learning Deep Features for Discriminative Localization  
-* Simple Does It: Weakly Supervised Instance and Semantic Segmentation  
-* Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations  
-* Panoptic Segmentation   
-* Learning Instance Activation Maps for Weakly Supervised Instance Segmentation  
-* Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression    
-* Single-Shot Refinement Neural Network for Object Detection  
-* ScratchDet : Training Single-Shot Object Detectors    
-* Squeeze-and-Excitation Networks   
-* Dual Attention Network for Scene Segmentation  
-* An Analysis of Scale Invariance in Object Detection  
-* Rotation Sensitive Regression for Oriented Scene  Text Detection   
-* Oriented Response Networks   
-* PolarMask : Single Shot Instance Segmentation with Polar Representation
-* Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection
-* Spatial-aware Graph Relation Network for Large-scale Object Detection
-<hr />
-<br>
+## 2020
 
-## ECCV
-* DetNet: A Backbone network for Object Detection  
-* Receptive Field Block Net for Accurate and Fast Object Detection  
-* Modeling Visual Context is Key to Augmenting Object Detection Datasets  
-* Contextual Priming and Feedback for Faster R-CNN  
-* Learning to Segment via Cut-and-Paste   
-* Acquisition of Localization Confidence for Accurate Object Detection
-<hr />
-<br>
+* [CVPR] PolarMask : Single Shot Instance Segmentation with Polar Representation
+* [Neurocomputing] Recent Advances in Deep Learning for Object Detection
+* Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
+* Cross-layer Feature Pyramid Network for Salient Object Detection
+* FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings
+* Objects detection for remote sensing images based on polar coordinates
 
-## ICCV  
-* Focal Loss for Dense Object Detection   
-* InstaBoost: Boosting Instance Segmentation via Probability Map Guided  
-* Scale-Aware Trident Networks for Object Detection  
-* EGNet: Edge Guidance Network for Salient Object Detection  
-* ThunderNet: Towards Real-time Generic Object Detection  
-* Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection  
-* FCOS: Fully Convolutional One-Stage Object Detection    
-* Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving   
-* Single Shot Text Detector with Regional Attention  
-* Towards More Robust Detection for Small, Cluttered and Rotated Objects
-* Dynamic Multi-scale Filters for Semantic Segmentation
-<hr />
-<br>
+---
 
-## ICML  
-* Making Convolutional Networks Shift-Invariant Again     
-* How much real data do we actually need: Analyzing object detection performance
-  using synthetic and real data (workshop)
-* Curriculum learning
-<hr />
-<br>
+## 2019
 
-## ICLR  
-* Why do deep convolutional networks generalize so poorly to small image transformations?   
-* Dataset Augmentationin In Feature Space
-* ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
-* Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
-* Multi-Scale Dense Convolutional Networks for Efficient Prediction
-<hr />
-<br>
-
-## ArXiv   
-* FSSD: Feature Fusion Single Shot Multibox Detector   
-* MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects       
+* [AAAI] M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
+* [AAAI] Gradient Harmonized Single-stage Detector  
+* [CVPR] Assisted Excitation of Activations: A Learning Technique to Improve Object  
+* [CVPR] Borrow from Anywhere Pseudo Multi-modal Object Detection in Thermal Imagery  
+* [CVPR] Region Proposal by Guided Anchoring    
+* [CVPR] Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations  
+* [CVPR] Panoptic Segmentation   
+* [CVPR] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation  
+* [CVPR] Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression    
+* [CVPR] ScratchDet : Training Single-Shot Object Detectors    
+* [CVPR] Dual Attention Network for Scene Segmentation  
+* [CVPR] Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection
+* [CVPR] Spatial-aware Graph Relation Network for Large-scale Object Detection
+* [ICCV] InstaBoost: Boosting Instance Segmentation via Probability Map Guided  
+* [ICCV] Scale-Aware Trident Networks for Object Detection  
+* [ICCV] EGNet: Edge Guidance Network for Salient Object Detection  
+* [ICCV] ThunderNet: Towards Real-time Generic Object Detection  
+* [ICCV] FCOS: Fully Convolutional One-Stage Object Detection    
+* [ICCV] Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving   
+* [ICCV] Towards More Robust Detection for Small, Cluttered and Rotated Objects
+* [ICCV] Dynamic Multi-scale Filters for Semantic Segmentation
+* [ICCV] Matrix Nets: A New Deep Architecture for Object Detection
+* [ICML] Making Convolutional Networks Shift-Invariant Again   
+* [ICML] How much real data do we actually need: Analyzing object detection performance
+  using synthetic and real data 
+* [ICLR] Why do deep convolutional networks generalize so poorly to small image transformations?   
+* [ICLR] ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
+* [ICLR] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
+* [BMVC]  Rethinking Classification and Localization for Cascade R-CNN  
+* [ICIP]   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
+* [IEEE Access] A Real-Time Scene Text Detector with Learned Anchor  
+* [J. Big Data]  A survey on Image Data Augmentation for Deep Learning 
+* [IEEE Trans Geosci Remote Sens] CAD-Net: A Context-Aware Detection Network for Objects in Remote Sensing Imagery
 * MMDetection: Open MMLab Detection Toolbox and Benchmark  
 * Double-Head RCNN: Rethinking Classification and Localization for Object Detection  
 * Learning Data Augmentation Strategies for Object Detection  
 * A Preliminary Study on Data Augmentation of Deep Learning for Image Classification  
-* Improved Regularization of Convolutional Neural Networks with Cutout
-* Data Augmentation by Pairing Samples for Images Classification
 * Bag of Freebies for Training Object Detection Neural Networks
-* The Effectiveness of Data Augmentation in Image Classification using Deep Learning
 * Natural Adversarial Examples
-* Recent Advances in Deep Learning for Object Detection
-* Matrix Nets: A New Deep Architecture for Object Detection
 * Needles in Haystacks: On Classifying Tiny Objects in Large Images  
 * CBNet: A Novel Composite Backbone Network Architecture for Object Detection
 * Light-Head R-CNN: In Defense of Two-Stage Object Detector  
 * R3Det Refined Single-Stage Detector with Feature Refinement for Rotating Object  
-* Beyond Skip Connections: Top-Down Modulation for Object Detection    
 * Deep Learning for 2D and 3D Rotatable Data An Overview of Methods   
 * Is Sampling Heuristics Necessary in Training Deep Object Detectors   
-* A Real-Time Scene Text Detector with Learned Anchor  
-* RAM: Residual Attention Module for Single Image Super-Resolution    
-* Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
-* Cross-layer Feature Pyramid Network for Salient Object Detection
 * IENet: Interacting Embranchment One Stage Anchor Free Detector for Orientation Aerial Object Detection
-* FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings
-* Objects detection for remote sensing images based on polar coordinates
-<hr />
-<br>
+* Ship Detection: An Improved YOLOv3 Method  
 
-## Others  
-* (Acess)  Smart Augmentation: Learning an Optimal Data Augmentation Strategy
-* (ICANN)  Further advantages of data augmentation on convolutional neural networks 
-* (WACV)  Understanding Convolution for Semantic Segmentation
-* (BMVC)  Enhancement of SSD by concatenating feature maps for object detection 
-* (Big Data)  A survey on Image Data Augmentation for Deep Learning 
-* (DICTA)  Understanding data augmentation for classification: when to warp?
-* (IJCV)  What Makes Good Synthetic Training Data for Learning Disparity and Optical
+---
+
+## 2018
+
+* [CVPR] Cascade R-CNN: Delving into High Quality Object Detection   
+* [CVPR] Path Aggregation Network for Instance Segmentation   
+* [CVPR] Scale-Transferable Object Detection  
+* [CVPR] DOTA: A Large-scale Dataset for Object Detection in Aerial Images  
+* [CVPR] R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection  
+* [CVPR] Pseudo Mask Augmented Object Detection  
+* [CVPR] Single-Shot Object Detection with Enriched Semantics 
+* [CVPR] Weakly Supervised Instance Segmentation using Class Peak Response   
+* [CVPR] Single-Shot Refinement Neural Network for Object Detection  
+* [CVPR] Squeeze-and-Excitation Networks   
+* [CVPR] An Analysis of Scale Invariance in Object Detection  
+* [CVPR] Rotation Sensitive Regression for Oriented Scene  Text Detection
+* [ECCV] DetNet: A Backbone network for Object Detection  
+* [ECCV] Receptive Field Block Net for Accurate and Fast Object Detection  
+* [ECCV] Modeling Visual Context is Key to Augmenting Object Detection Datasets  
+* [ECCV] Learning to Segment via Cut-and-Paste   
+* [ECCV] Acquisition of Localization Confidence for Accurate Object Detection
+* [ICLR] Multi-Scale Dense Convolutional Networks for Efficient Prediction
+* [ICANN]  Further advantages of data augmentation on convolutional neural networks 
+* [IJCV] What Makes Good Synthetic Training Data for Learning Disparity and Optical
   Flow Estimation?
-* (ACCV)  Reverse Densely Connected Feature Pyramid Network for Object Detection   
-* (IJAC)  An Overview of Contour Detection Approaches   
-* (ICIP)   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
-* (Remote Sensing)  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks
-* (Multimedia)  Arbitrary-oriented scene text detection via rotation proposals  
-* (NIPS)  R-FCN： Object Detection via Region-based Fully Convolutional Networks  
-* (JMLR)  Neural Architecture Search: A Survey
-* (OCEANS)  Ship Detection: An Improved YOLOv3 Method  
-* (VISIGRAPP)  Learning Transformation Invariant Representations with Weak Supervision  
-* (ICDAR)  ICDAR 2015 competition on Robust Reading  
-* (BMVC)  Rethinking Classification and Localization for Cascade R-CNN  
-* (IEEE Trans Geosci Remote Sens)CAD-Net: A Context-Aware Detection Network for Objects in Remote Sensing Imagery
+* [WACV]  Understanding Convolution for Semantic Segmentation
+* [ACCV]  Reverse Densely Connected Feature Pyramid Network for Object Detection   
+* [BMVC]  Enhancement of SSD by concatenating feature maps for object detection 
+* [IJAC]  An Overview of Contour Detection Approaches   
+* [Remote Sens.]  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks
+* [IEEE Trans Multimedia] Arbitrary-oriented scene text detection via rotation proposals  
+* [J Mach Learn Res]  Neural Architecture Search: A Survey
+* [VISIGRAPP]  Learning Transformation Invariant Representations with Weak Supervision  
+* MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects       
+* Data Augmentation by Pairing Samples for Images Classification 
+* RAM: Residual Attention Module for Single Image Super-Resolution  
+
+---
+
+## 2017
+
+* [AAAI] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network  
+* [CVPR] Feature Pyramid Networks for Object Detection   
+* [CVPR] Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade  
+* [CVPR] Simple Does It: Weakly Supervised Instance and Semantic Segmentation  
+* [CVPR] Oriented Response Networks   
+* [ICCV] Focal Loss for Dense Object Detection   
+* [ICCV] Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection  
+* [ICCV] Single Shot Text Detector with Regional Attention  
+* [ICLR] Dataset Augmentationin In Feature Space
+* [IEEE Acess]  Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+* FSSD: Feature Fusion Single Shot Multibox Detector   
+* Improved Regularization of Convolutional Neural Networks with Cutout
+* The Effectiveness of Data Augmentation in Image Classification using Deep Learning
+
+---
+
+## 2016
+
+* [CVPR] Learning Deep Features for Discriminative Localization  
+* [ECCV] Contextual Priming and Feedback for Faster R-CNN
+* [NIPS] R-FCN： Object Detection via Region-based Fully Convolutional Networks  
+* [DICTA]  Understanding data augmentation for classification: when to warp?
+* Beyond Skip Connections: Top-Down Modulation for Object Detection    
+
+---
+
+## 2015
+
+* [ICDAR]  ICDAR 2015 competition on Robust Reading  
+
+<hr />
+## 2009
+
+* [ICML] Curriculum learning
+
 <hr />
