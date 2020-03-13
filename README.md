@@ -2,7 +2,7 @@
 # Notice！  
 Busy with recent things , I'll update without day.
 
-Notes are attached to raw PDF files  from now on . 
+Notes are attached to raw PDF files to save time . 
 
 
 # CV--PaperDaily  
@@ -13,13 +13,13 @@ Notes are attached to raw PDF files  from now on .
 
 
 Update CV papers here **everday** .<br>
-The content includes but is not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning .  <br>Comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
+The contents include but  are not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning .  Comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 
 # Paper reading 
 
 ~~Divided by Conference & Journal .~~
 
-Reordered via year from now on, unclassified papers are  preprints on  arXiv .
+Reordered via year of publications from now on, unclassified papers are  preprints on  arXiv .
 
 ---
 
@@ -31,6 +31,7 @@ Reordered via year from now on, unclassified papers are  preprints on  arXiv .
 * Cross-layer Feature Pyramid Network for Salient Object Detection
 * FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings
 * Objects detection for remote sensing images based on polar coordinates
+* Conditional Convolutions for Instance Segmentation
 
 ---
 
@@ -155,9 +156,10 @@ Reordered via year from now on, unclassified papers are  preprints on  arXiv .
 
 * [ICDAR]  ICDAR 2015 competition on Robust Reading  
 
-<hr />
+---
+
+
 ## 2009
 
 * [ICML] Curriculum learning
 
-<hr />
