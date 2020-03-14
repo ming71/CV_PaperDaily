@@ -84,6 +84,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * Is Sampling Heuristics Necessary in Training Deep Object Detectors   
 * IENet: Interacting Embranchment One Stage Anchor Free Detector for Orientation Aerial Object Detection
 * Ship Detection: An Improved YOLOv3 Method  
+* AugFPN: Improving Multi-scale Feature Learning for Object Detection
 
 ---
 
