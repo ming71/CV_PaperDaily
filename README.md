@@ -137,7 +137,8 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [ICCV] Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection  
 * [ICCV] Single Shot Text Detector with Regional Attention  
 * [ICLR] Dataset Augmentationin In Feature Space
-* [IEEE Acess]  Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+* [IEEE Acess] Smart Augmentation: Learning an Optimal Data Augmentation Strategy
+* [ICPRAM] A High Resolution Optical Satellite Image Dataset for Ship Recognition and Some New Baselines
 * FSSD: Feature Fusion Single Shot Multibox Detector   
 * Improved Regularization of Convolutional Neural Networks with Cutout
 * The Effectiveness of Data Augmentation in Image Classification using Deep Learning
