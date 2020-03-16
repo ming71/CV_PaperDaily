@@ -65,6 +65,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [ICLR] Why do deep convolutional networks generalize so poorly to small image transformations?   
 * [ICLR] ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
 * [ICLR] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
+* [IJCAI] Omnidirectional Scene Text Detection with Sequential-free Box Discretization
 * [BMVC]  Rethinking Classification and Localization for Cascade R-CNN  
 * [ICIP]   SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes
 * [IEEE Access] A Real-Time Scene Text Detector with Learned Anchor  
