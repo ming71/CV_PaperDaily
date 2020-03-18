@@ -50,6 +50,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Dual Attention Network for Scene Segmentation  
 * [CVPR] Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection
 * [CVPR] Spatial-aware Graph Relation Network for Large-scale Object Detection
+* [CVPR] Learning RoI Transformer for Detecting Oriented Objects in Aerial Images
 * [ICCV] InstaBoost: Boosting Instance Segmentation via Probability Map Guided  
 * [ICCV] Scale-Aware Trident Networks for Object Detection  
 * [ICCV] EGNet: Edge Guidance Network for Salient Object Detection  
