@@ -1,5 +1,5 @@
+Notice！  
 
-# Notice！  
 Busy with recent things , I'll update without day.
 
 Notes are attached to raw PDF files to save time . 
@@ -153,6 +153,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [ECCV] Contextual Priming and Feedback for Faster R-CNN
 * [NIPS] R-FCN： Object Detection via Region-based Fully Convolutional Networks  
 * [DICTA]  Understanding data augmentation for classification: when to warp?
+* [IEEE Geosci. Remote. Sens. Lett.] Ship Rotated Bounding Box Space for Ship Extraction From High-Resolution Optical Satellite Images With Complex Backgrounds
 * Beyond Skip Connections: Top-Down Modulation for Object Detection    
 
 ---
