@@ -33,6 +33,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings
 * Objects detection for remote sensing images based on polar coordinates
 * Conditional Convolutions for Instance Segmentation
+* 1st Place Solutions for OpenImage2019 -- Object Detection and Instance Segmentation
 
 ---
 
