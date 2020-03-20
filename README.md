@@ -26,6 +26,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 ## 2020
 
 * [CVPR] PolarMask : Single Shot Instance Segmentation with Polar Representation
+* [CVPR] Revisiting the Sibling Head in Object Detector
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 * Cross-layer Feature Pyramid Network for Salient Object Detection
