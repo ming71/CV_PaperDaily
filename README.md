@@ -89,6 +89,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * IENet: Interacting Embranchment One Stage Anchor Free Detector for Orientation Aerial Object Detection
 * Ship Detection: An Improved YOLOv3 Method  
 * AugFPN: Improving Multi-scale Feature Learning for Object Detection
+* Multi-Scale Attention Network for Crowd Counting
 
 ---
 
