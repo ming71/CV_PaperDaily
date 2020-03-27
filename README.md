@@ -34,6 +34,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * Objects detection for remote sensing images based on polar coordinates
 * Conditional Convolutions for Instance Segmentation
 * 1st Place Solutions for OpenImage2019 -- Object Detection and Instance Segmentation
+* Extended Feature Pyramid Network for Small Object Detection
 
 ---
 
