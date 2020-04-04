@@ -28,6 +28,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] PolarMask : Single Shot Instance Segmentation with Polar Representation
 * [CVPR] Revisiting the Sibling Head in Object Detector
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
+* [WACV] Propose-and-Attend Single Shot Detector
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 * Cross-layer Feature Pyramid Network for Salient Object Detection
 * FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings
