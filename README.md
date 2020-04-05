@@ -93,6 +93,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * Ship Detection: An Improved YOLOv3 Method  
 * AugFPN: Improving Multi-scale Feature Learning for Object Detection
 * Multi-Scale Attention Network for Crowd Counting
+* Revisiting Feature Alignment for One-stage Object Detection
 
 ---
 
