@@ -27,6 +27,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 
 * [CVPR] PolarMask : Single Shot Instance Segmentation with Polar Representation
 * [CVPR] Revisiting the Sibling Head in Object Detector
+* [AAAI]  Distance-IoU 
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
 * [WACV] Propose-and-Attend Single Shot Detector
 * [BMVC] Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection
