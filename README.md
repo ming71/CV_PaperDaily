@@ -96,6 +96,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * AugFPN: Improving Multi-scale Feature Learning for Object Detection
 * Multi-Scale Attention Network for Crowd Counting
 * Revisiting Feature Alignment for One-stage Object Detection
+* Consistent Optimization for Single-Shot Object Detection
 
 ---
 
