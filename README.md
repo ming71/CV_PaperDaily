@@ -29,6 +29,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Revisiting the Sibling Head in Object Detector
 * [AAAI]  Distance-IoU 
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
+* [Neurocomputing] Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection
 * [WACV] Propose-and-Attend Single Shot Detector
 * [BMVC] Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
