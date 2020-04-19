@@ -80,6 +80,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [IEEE Access] A Real-Time Scene Text Detector with Learned Anchor  
 * [J. Big Data]  A survey on Image Data Augmentation for Deep Learning 
 * [IEEE Trans Geosci Remote Sens] CAD-Net: A Context-Aware Detection Network for Objects in Remote Sensing Imagery
+* [ICTAI] Twin Feature Pyramid Networks for Object Detection
 * MMDetection: Open MMLab Detection Toolbox and Benchmark  
 * Double-Head RCNN: Rethinking Classification and Localization for Object Detection  
 * Learning Data Augmentation Strategies for Object Detection  
