@@ -121,6 +121,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [ECCV] Modeling Visual Context is Key to Augmenting Object Detection Datasets  
 * [ECCV] Learning to Segment via Cut-and-Paste   
 * [ECCV] Acquisition of Localization Confidence for Accurate Object Detection
+* [ECCV] Deep Feature Pyramid Reconfiguration for Object Detection
 * [ICLR] Multi-Scale Dense Convolutional Networks for Efficient Prediction
 * [ICANN]  Further advantages of data augmentation on convolutional neural networks 
 * [IJCV] What Makes Good Synthetic Training Data for Learning Disparity and Optical
