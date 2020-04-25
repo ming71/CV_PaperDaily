@@ -41,6 +41,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * Extended Feature Pyramid Network for Small Object Detection
 * Joint Anchor-Feature Refinement for Real-Time Accurate Object Detection in Images and Videos
 * Location-Aware Feature Selection for Scene Text Detection
+* Feature Pyramid Grids
 
 ---
 
