@@ -27,6 +27,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 
 * [CVPR] PolarMask : Single Shot Instance Segmentation with Polar Representation
 * [CVPR] Revisiting the Sibling Head in Object Detector
+* [CVPR] Delving into Online High-quality Anchors Mining for Detecting Outer Faces
 * [AAAI]  Distance-IoU 
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
 * [Neurocomputing] Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection
