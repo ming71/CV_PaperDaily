@@ -102,6 +102,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * Multi-Scale Attention Network for Crowd Counting
 * Revisiting Feature Alignment for One-stage Object Detection
 * Consistent Optimization for Single-Shot Object Detection
+* Learning from Noisy Anchors for One-stage Object Detection
 
 ---
 
