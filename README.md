@@ -29,6 +29,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Revisiting the Sibling Head in Object Detector
 * [CVPR] Delving into Online High-quality Anchors Mining for Detecting Outer Faces
 * [AAAI]  Distance-IoU 
+* [AAAI]  Progressive Feature Polishing Network for Salient Object Detection
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
 * [Neurocomputing] Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection
 * [WACV] Propose-and-Attend Single Shot Detector
