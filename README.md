@@ -34,6 +34,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
 * [Neurocomputing] Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection
 * [WACV] Propose-and-Attend Single Shot Detector
+* [WACV] Improving Object Detection with Inverted Attention
 * [BMVC] Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 * Cross-layer Feature Pyramid Network for Salient Object Detection
