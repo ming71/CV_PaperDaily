@@ -78,6 +78,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [ICML] How much real data do we actually need: Analyzing object detection performance
   using synthetic and real data 
 * [NeurIPS]  FreeAnchor Learning to Match Anchors for Visual Object Detection
+* [NeurIPS]  Cascade RPN Delving into High-Quality Region Proposal Network with Adaptive Convolution
 * [ICLR] Why do deep convolutional networks generalize so poorly to small image transformations?   
 * [ICLR] ImageNet-trained CNNs are biased towards texture: increasing shape bias improves accuracy and robustness  
 * [ICLR] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet  
