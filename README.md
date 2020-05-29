@@ -132,16 +132,16 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [ECCV] Acquisition of Localization Confidence for Accurate Object Detection
 * [ECCV] Deep Feature Pyramid Reconfiguration for Object Detection
 * [ICLR] Multi-Scale Dense Convolutional Networks for Efficient Prediction
-* [ICANN]  Further advantages of data augmentation on convolutional neural networks 
+* [ICANN] Further advantages of data augmentation on convolutional neural networks 
 * [IJCV] What Makes Good Synthetic Training Data for Learning Disparity and Optical
   Flow Estimation?
-* [WACV]  Understanding Convolution for Semantic Segmentation
-* [ACCV]  Reverse Densely Connected Feature Pyramid Network for Object Detection   
-* [BMVC]  Enhancement of SSD by concatenating feature maps for object detection 
+* [WACV] Understanding Convolution for Semantic Segmentation
+* [ACCV] Reverse Densely Connected Feature Pyramid Network for Object Detection   
+* [BMVC] Enhancement of SSD by concatenating feature maps for object detection 
 * [IJAC]  An Overview of Contour Detection Approaches   
 * [Remote Sens.]  Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks
 * [IEEE Trans Multimedia] Arbitrary-oriented scene text detection via rotation proposals  
-* [J Mach Learn Res]  Neural Architecture Search: A Survey
+* [J Mach Learn Res] Neural Architecture Search: A Survey
 * [VISIGRAPP]  Learning Transformation Invariant Representations with Weak Supervision  
 * MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects       
 * Data Augmentation by Pairing Samples for Images Classification 
@@ -158,6 +158,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Oriented Response Networks   
 * [ICCV] Focal Loss for Dense Object Detection   
 * [ICCV] Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection  
+* [ICCV] Grad-CAM Visual Explanations From Deep Networks via Gradient-Based Localization
 * [ICCV] Single Shot Text Detector with Regional Attention  
 * [ICLR] Dataset Augmentationin In Feature Space
 * [ICIP] Rotated region based CNN for ship detection
