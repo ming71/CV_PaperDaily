@@ -54,6 +54,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 
 * [AAAI] M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
 * [AAAI] Gradient Harmonized Single-stage Detector  
+* [CVPR] Libra R-CNN: Towards Balanced Learning for Object Detection
 * [CVPR] Assisted Excitation of Activations: A Learning Technique to Improve Object  
 * [CVPR] Borrow from Anywhere Pseudo Multi-modal Object Detection in Thermal Imagery  
 * [CVPR] Region Proposal by Guided Anchoring    
