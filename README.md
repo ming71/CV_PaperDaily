@@ -158,6 +158,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade  
 * [CVPR] Simple Does It: Weakly Supervised Instance and Semantic Segmentation  
 * [CVPR] Oriented Response Networks   
+* [ICCV] Single shot scale-invariant face detector
 * [ICCV] Focal Loss for Dense Object Detection   
 * [ICCV] Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection  
 * [ICCV] Grad-CAM Visual Explanations From Deep Networks via Gradient-Based Localization
