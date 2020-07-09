@@ -30,6 +30,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Delving into Online High-quality Anchors Mining for Detecting Outer Faces
 * [CVPR] Multiple Anchor Learning for Visual Object Detection
 * [CVPR] Detection in Crowded Scenes One Proposal, Multiple Predictions
+* [CVPR] Learning from Noisy Anchors for One-stage Object Detection
 * [AAAI]  Distance-IoU 
 * [AAAI]  Progressive Feature Polishing Network for Salient Object Detection
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
