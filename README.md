@@ -31,6 +31,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Multiple Anchor Learning for Visual Object Detection
 * [CVPR] Detection in Crowded Scenes One Proposal, Multiple Predictions
 * [CVPR] Learning from Noisy Anchors for One-stage Object Detection
+* [ECCV] Dynamic R-CNN : Towards High Quality Object Detection via Dynamic Training
 * [AAAI]  Distance-IoU 
 * [AAAI]  Progressive Feature Polishing Network for Salient Object Detection
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
