@@ -39,6 +39,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [WACV] Propose-and-Attend Single Shot Detector
 * [WACV] Improving Object Detection with Inverted Attention
 * [BMVC] Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection
+* EAGLE: Large-scale Vehicle Detection Dataset inReal-World Scenarios using Aerial Imagery
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 * Cross-layer Feature Pyramid Network for Salient Object Detection
 * FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings
