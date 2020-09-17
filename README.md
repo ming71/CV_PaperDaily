@@ -55,6 +55,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 
 ## 2019
 
+* [ICCV] SCRDet: Towards More Robust Detection for Small, Cluttered and Rotated Objects
 * [AAAI] M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid  
 * [AAAI] Gradient Harmonized Single-stage Detector  
 * [CVPR] Libra R-CNN: Towards Balanced Learning for Object Detection
