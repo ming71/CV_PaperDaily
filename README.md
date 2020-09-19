@@ -2,13 +2,13 @@ Notice！
 
 Busy with recent things , I'll update without day.
 
-Notes are attached to raw PDF files to save time . 
+Notes are attached to raw PDF files for simplicity. 
 
 
 # CV--PaperDaily  
-|        |                       知乎论文阅读专栏                       |              个人博客               | 其他                                     |
-| :----: | :----------------------------------------------------------: | :---------------------------------: | ---------------------------------------- |
-| ming71 | [论文笔记入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) | [CSDN](https://blog.csdn.net/mingqi1996) |
+|        |                           知乎                           |              个人博客               | 其他                                     |
+| :----: | :------------------------------------------------------: | :---------------------------------: | ---------------------------------------- |
+| ming71 | [入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) | [CSDN](https://blog.csdn.net/mingqi1996) |
 
 
 
@@ -32,6 +32,8 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Detection in Crowded Scenes One Proposal, Multiple Predictions
 * [CVPR] Learning from Noisy Anchors for One-stage Object Detection
 * [ECCV] Dynamic R-CNN : Towards High Quality Object Detection via Dynamic Training
+* [ECCV] Rotation-robust Intersection over Union for 3D Object Detection
+* [ECCV] PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments
 * [AAAI]  Distance-IoU 
 * [AAAI]  Progressive Feature Polishing Network for Salient Object Detection
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
@@ -39,7 +41,6 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [WACV] Propose-and-Attend Single Shot Detector
 * [WACV] Improving Object Detection with Inverted Attention
 * [BMVC] Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection
-* [ECCV] PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments
 * EAGLE: Large-scale Vehicle Detection Dataset inReal-World Scenarios using Aerial Imagery
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 * Cross-layer Feature Pyramid Network for Salient Object Detection
