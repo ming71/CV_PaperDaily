@@ -152,6 +152,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [IEEE Trans Multimedia] Arbitrary-oriented scene text detection via rotation proposals  
 * [J Mach Learn Res] Neural Architecture Search: A Survey
 * [VISIGRAPP]  Learning Transformation Invariant Representations with Weak Supervision  
+* [IEEE ISBI]A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation
 * MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects       
 * Data Augmentation by Pairing Samples for Images Classification 
 * RAM: Residual Attention Module for Single Image Super-Resolution  
@@ -177,6 +178,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * FSSD: Feature Fusion Single Shot Multibox Detector   
 * Improved Regularization of Convolutional Neural Networks with Cutout
 * The Effectiveness of Data Augmentation in Image Classification using Deep Learning
+* Tversky loss function for image segmentation using 3D fully convolutional deep networks
 
 ---
 
