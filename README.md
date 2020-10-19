@@ -54,6 +54,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * Location-Aware Feature Selection for Scene Text Detection
 * Feature Pyramid Grids
 * EFN: Field-based Object Detection for Aerial Images
+* AMRNet: Chips Augmentation in Areial Images Object Detection
 
 ---
 
