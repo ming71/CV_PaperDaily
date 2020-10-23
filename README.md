@@ -55,6 +55,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * Feature Pyramid Grids
 * EFN: Field-based Object Detection for Aerial Images
 * AMRNet: Chips Augmentation in Areial Images Object Detection
+* Align Deep Features for Oriented Object Detection
 
 ---
 
