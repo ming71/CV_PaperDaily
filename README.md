@@ -57,6 +57,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * EFN: Field-based Object Detection for Aerial Images
 * AMRNet: Chips Augmentation in Areial Images Object Detection
 * Align Deep Features for Oriented Object Detection
+* IterDet: Iterative Scheme for ObjectDetection in Crowded Environments
 
 ---
 
