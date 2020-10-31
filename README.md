@@ -34,6 +34,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [ECCV] Dynamic R-CNN : Towards High Quality Object Detection via Dynamic Training
 * [ECCV] Rotation-robust Intersection over Union for 3D Object Detection
 * [ECCV] PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments
+* [ECCV] Probabilistic Anchor Assignment with IoU Prediction for Object Detection
 * [AAAI]  Arbitrary-Oriented Object Detection with Circular Smooth Label
 * [AAAI]  Distance-IoU 
 * [AAAI]  Progressive Feature Polishing Network for Salient Object Detection
