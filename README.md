@@ -205,6 +205,9 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 
 ---
 
+## 2012
+
+* [PAMI]  Measuring the Objectness of Image Windows
 
 ## 2009
 
