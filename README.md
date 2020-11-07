@@ -59,6 +59,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * AMRNet: Chips Augmentation in Areial Images Object Detection
 * Align Deep Features for Oriented Object Detection
 * IterDet: Iterative Scheme for ObjectDetection in Crowded Environments
+* BBRefinement: An universal scheme to improve precision of box object detectors
 
 ---
 
