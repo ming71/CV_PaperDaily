@@ -31,6 +31,7 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [CVPR] Multiple Anchor Learning for Visual Object Detection
 * [CVPR] Detection in Crowded Scenes One Proposal, Multiple Predictions
 * [CVPR] Learning from Noisy Anchors for One-stage Object Detection
+* [CVPR] ContourNet: Taking a Further Step toward Accurate Arbitrary-shaped Scene Text Detection
 * [ECCV] Dynamic R-CNN : Towards High Quality Object Detection via Dynamic Training
 * [ECCV] Rotation-robust Intersection over Union for 3D Object Detection
 * [ECCV] PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments
