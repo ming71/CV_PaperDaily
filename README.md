@@ -213,7 +213,15 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 
 * [PAMI]  Measuring the Objectness of Image Windows
 
+---
+
 ## 2009
 
-* [ICML] Curriculum learning
+* [ICML]  Curriculum learning
+
+---
+
+## 2000
+
+* [IJCV]  The earth mover's distance as a metric for image retrieval
 
