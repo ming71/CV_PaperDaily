@@ -1,8 +1,4 @@
-Notice！  
 
-Busy with recent things , I'll update without day.
-
-Notes are attached to raw PDF files for simplicity. 
 
 
 # CV--PaperDaily  
@@ -13,13 +9,12 @@ Notes are attached to raw PDF files for simplicity.
 
 
 Update CV papers here **everday** .<br>
+
+Busy with recent things , I'll update without day. Notes are attached to PDF files for simplicity. 
+
 The contents include but  are not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning .  Comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
 
-# Paper reading 
-
-~~Divided by Conference & Journal .~~
-
-Reordered via year of publications from now on, unclassified papers are  preprints on  arXiv .
+# Archive
 
 ---
 
@@ -36,15 +31,16 @@ Reordered via year of publications from now on, unclassified papers are  preprin
 * [ECCV] Rotation-robust Intersection over Union for 3D Object Detection
 * [ECCV] PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments
 * [ECCV] Probabilistic Anchor Assignment with IoU Prediction for Object Detection
-* [AAAI]  Arbitrary-Oriented Object Detection with Circular Smooth Label
-* [AAAI]  Distance-IoU 
-* [AAAI]  Progressive Feature Polishing Network for Salient Object Detection
+* [AAAI] Arbitrary-Oriented Object Detection with Circular Smooth Label
+* [AAAI] Distance-IoU
+* [AAAI] Progressive Feature Polishing Network for Salient Object Detection
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
 * [Neurocomputing] Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection
 * [WACV] Propose-and-Attend Single Shot Detector
 * [WACV] Improving Object Detection with Inverted Attention
 * [BMVC] Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection
 * [IEEE TGRS] Adaptive Period Embedding for Representing Oriented Objects in Aerial Images
+* [Remote Sens.] Single-Stage Rotation-Decoupled Detector for Oriented Object
 * EAGLE: Large-scale Vehicle Detection Dataset inReal-World Scenarios using Aerial Imagery
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 * Cross-layer Feature Pyramid Network for Salient Object Detection
