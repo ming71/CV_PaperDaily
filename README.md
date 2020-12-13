@@ -17,13 +17,13 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 ## 2021
 
 * [AAAI] Learning Modulated Loss for Rotated Object Detection
-* [AAAI] R3Det Refined Single-Stage Detector with Feature Refinement for Rotating Object 
+* [AAAI] R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object 
 
 ---
 
 ## 2020
 
-* [CVPR] PolarMask : Single Shot Instance Segmentation with Polar Representation
+* [CVPR] PolarMask: Single Shot Instance Segmentation with Polar Representation
 * [CVPR] Revisiting the Sibling Head in Object Detector
 * [CVPR] Delving into Online High-quality Anchors Mining for Detecting Outer Faces
 * [CVPR] Multiple Anchor Learning for Visual Object Detection
