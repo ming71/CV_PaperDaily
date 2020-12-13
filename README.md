@@ -41,6 +41,7 @@ The contents include but  are not limited to **Object detection** , **Semantic s
 * [BMVC] Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection
 * [IEEE TGRS] Adaptive Period Embedding for Representing Oriented Objects in Aerial Images
 * [Remote Sens.] Single-Stage Rotation-Decoupled Detector for Oriented Object
+* [IEEE JSTARS] Learning Point-guided Localization for Detection in Remote Sensing Images
 * EAGLE: Large-scale Vehicle Detection Dataset inReal-World Scenarios using Aerial Imagery
 * Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images
 * Cross-layer Feature Pyramid Network for Salient Object Detection
