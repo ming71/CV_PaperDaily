@@ -8,8 +8,6 @@
 
 
 
-Update CV papers here **everday** .<br>
-
 Busy with recent things , I'll update without day. Notes are attached to PDF files for simplicity. 
 
 The contents include but  are not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning .  Comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
