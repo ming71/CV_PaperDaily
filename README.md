@@ -10,9 +10,14 @@
 
 Busy with recent things , I'll update without day. Notes are attached to PDF files for simplicity. 
 
-The contents include but  are not limited to **Object detection** , **Semantic segmentation** , and other papers about deep learning .  Comments are welcome , and you can e-mail me by <u>mq_chaser@126.com</u> .
+If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 
 # Archive
+
+## 2021
+
+* [AAAI] Learning Modulated Loss for Rotated Object Detection
+* [AAAI] R3Det Refined Single-Stage Detector with Feature Refinement for Rotating Object 
 
 ---
 
@@ -25,6 +30,7 @@ The contents include but  are not limited to **Object detection** , **Semantic s
 * [CVPR] Detection in Crowded Scenes One Proposal, Multiple Predictions
 * [CVPR] Learning from Noisy Anchors for One-stage Object Detection
 * [CVPR] ContourNet: Taking a Further Step toward Accurate Arbitrary-shaped Scene Text Detection
+* [CVPR] AugFPN: Improving Multi-scale Feature Learning for Object Detection
 * [ECCV] Dynamic R-CNN : Towards High Quality Object Detection via Dynamic Training
 * [ECCV] Rotation-robust Intersection over Union for 3D Object Detection
 * [ECCV] PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments
@@ -32,6 +38,7 @@ The contents include but  are not limited to **Object detection** , **Semantic s
 * [AAAI] Arbitrary-Oriented Object Detection with Circular Smooth Label
 * [AAAI] Distance-IoU
 * [AAAI] Progressive Feature Polishing Network for Salient Object Detection
+* [AAAI] CBNet: A Novel Composite Backbone Network Architecture for Object Detection
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
 * [Neurocomputing] Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection
 * [WACV] Propose-and-Attend Single Shot Detector
@@ -56,7 +63,6 @@ The contents include but  are not limited to **Object detection** , **Semantic s
 * Align Deep Features for Oriented Object Detection
 * IterDet: Iterative Scheme for ObjectDetection in Crowded Environments
 * BBRefinement: An universal scheme to improve precision of box object detectors
-* Learning Modulated Loss for Rotated Object Detection
 * Scaled-YOLOv4: Scaling Cross Stage Partial Network
 
 ---
@@ -110,14 +116,11 @@ The contents include but  are not limited to **Object detection** , **Semantic s
 * Bag of Freebies for Training Object Detection Neural Networks
 * Natural Adversarial Examples
 * Needles in Haystacks: On Classifying Tiny Objects in Large Images  
-* CBNet: A Novel Composite Backbone Network Architecture for Object Detection
-* Light-Head R-CNN: In Defense of Two-Stage Object Detector  
-* R3Det Refined Single-Stage Detector with Feature Refinement for Rotating Object  
+* Light-Head R-CNN: In Defense of Two-Stage Object Detector   
 * Deep Learning for 2D and 3D Rotatable Data An Overview of Methods   
 * Is Sampling Heuristics Necessary in Training Deep Object Detectors   
 * IENet: Interacting Embranchment One Stage Anchor Free Detector for Orientation Aerial Object Detection
 * Ship Detection: An Improved YOLOv3 Method  
-* AugFPN: Improving Multi-scale Feature Learning for Object Detection
 * Multi-Scale Attention Network for Crowd Counting
 * Revisiting Feature Alignment for One-stage Object Detection
 * Consistent Optimization for Single-Shot Object Detection
