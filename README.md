@@ -48,6 +48,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [Neurocomputing] Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection
 * [Remote Sens.] EFN: Field-based Object Detection for Aerial Images
 * [Remote Sens.] Single-Stage Rotation-Decoupled Detector for Oriented Object
+* [Remote Sens.] A2S-Det: Efficiency Anchor Matching in Aerial Image Oriented Object Detection
 * [WACV] Improving Object Detection with Inverted Attention
 * [WACV] Propose-and-Attend Single Shot Detector
 * Align Deep Features for Oriented Object Detection
