@@ -19,6 +19,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [AAAI] Learning Modulated Loss for Rotated Object Detection
 * [AAAI] R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object 
 * [WACV] Disentangled Contour Learning for Quadrilateral Text Detection
+* [JSTARS] Arbitrary-Oriented Ship Detection through Center-Head Point Extraction
 
 ---
 
