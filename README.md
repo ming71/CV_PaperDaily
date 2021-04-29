@@ -26,6 +26,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [TGRS] SKNet: Detecting Rotated Ships as Keypoints in Optical Remote Sensing Images
 * FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery
 * Object Detection in Aerial Images A Large-Scale Benchmark and Challenges
+* Gaussian Guided IoU A Better Metric for Balanced Learning on Object Detection
 
 ---
 
