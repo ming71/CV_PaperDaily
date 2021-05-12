@@ -25,6 +25,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [JSTARS] Arbitrary-Oriented Ship Detection through Center-Head Point Extraction
 * [TGRS] SKNet: Detecting Rotated Ships as Keypoints in Optical Remote Sensing Images
 * [TGRS] Laplacian Feature Pyramid Network for Object Detection in VHR Optical Remote Sensing Images
+* [NCAA] Hilbert sEMG data scanning for hand gesture recognition based on deep learning
 * FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery
 * Object Detection in Aerial Images A Large-Scale Benchmark and Challenges
 * Gaussian Guided IoU A Better Metric for Balanced Learning on Object Detection
