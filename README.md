@@ -28,8 +28,9 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [NCAA] Hilbert sEMG data scanning for hand gesture recognition based on deep learning
 * FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery
 * Object Detection in Aerial Images A Large-Scale Benchmark and Challenges
-* Gaussian Guided IoU A Better Metric for Balanced Learning on Object Detection
+* Gaussian Guided IoU: A Better Metric for Balanced Learning on Object Detection
 * MOD: Benchmark for Military Object Detection
+* Location-Sensitive Visual Recognition with Cross-IOU Loss
 
 ---
 
