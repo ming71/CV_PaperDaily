@@ -33,6 +33,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * Gaussian Guided IoU: A Better Metric for Balanced Learning on Object Detection
 * MOD: Benchmark for Military Object Detection
 * Location-Sensitive Visual Recognition with Cross-IOU Loss
+* Anchor Pruning for Object Detection
 
 ---
 
