@@ -21,6 +21,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [CVPR] You Only Look One-level Feature
 * [CVPR] Boundary IoU: Improving Object-Centric Image Segmentation Evaluation
 * [CVPR] Coordinate Attention for Efficient Mobile Network Design
+* [CVPR] Dot Distance for Tiny Object Detection in Aerial Images
 * [ICML] Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss
 * [ICLR] Deformable DETR: Deformable Transformers for End-to-End Object Detection
 * [WACV] Disentangled Contour Learning for Quadrilateral Text Detection
