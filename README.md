@@ -60,6 +60,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [ECCV] Probabilistic Anchor Assignment with IoU Prediction for Object Detection
 * [ECCV] Rotation-robust Intersection over Union for 3D Object Detection
 * [ECCV] End-to-End Object Detection with Transformers
+* [ECCV] Side-Aware Boundary Localization for More Precise Object Detection
 * [IEEE JSTARS] Learning Point-guided Localization for Detection in Remote Sensing Images
 * [IEEE TGRS] Adaptive Period Embedding for Representing Oriented Objects in Aerial Images
 * [IEEE TCSVT] Joint Anchor-Feature Refinement for Real-Time Accurate Object Detection in Images and Videos
