@@ -36,6 +36,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * MOD: Benchmark for Military Object Detection
 * Location-Sensitive Visual Recognition with Cross-IOU Loss
 * Anchor Pruning for Object Detection
+* SCALoss: Side and Corner Aligned Loss for Bounding Box Regression
 
 ---
 
