@@ -28,6 +28,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [WACV] Disentangled Contour Learning for Quadrilateral Text Detection
 * [JSTARS] Arbitrary-Oriented Ship Detection through Center-Head Point Extraction
 * [TIP] GSDet: Object Detection in Aerial Images Based on Scale Reasoning
+* [TIP] HCE: Hierarchical Context Embedding for Region-Based Object Detection
 * [TGRS] SKNet: Detecting Rotated Ships as Keypoints in Optical Remote Sensing Images
 * [TGRS] Laplacian Feature Pyramid Network for Object Detection in VHR Optical Remote Sensing Images
 * [NCAA] Hilbert sEMG data scanning for hand gesture recognition based on deep learning
@@ -62,9 +63,9 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [ECCV] Rotation-robust Intersection over Union for 3D Object Detection
 * [ECCV] End-to-End Object Detection with Transformers
 * [ECCV] Side-Aware Boundary Localization for More Precise Object Detection
-* [IEEE JSTARS] Learning Point-guided Localization for Detection in Remote Sensing Images
-* [IEEE TGRS] Adaptive Period Embedding for Representing Oriented Objects in Aerial Images
-* [IEEE TCSVT] Joint Anchor-Feature Refinement for Real-Time Accurate Object Detection in Images and Videos
+* [JSTARS] Learning Point-guided Localization for Detection in Remote Sensing Images
+* [TGRS] Adaptive Period Embedding for Representing Oriented Objects in Aerial Images
+* [TCSVT] Joint Anchor-Feature Refinement for Real-Time Accurate Object Detection in Images and Videos
 * [Neurocomputing] Recent Advances in Deep Learning for Object Detection
 * [Neurocomputing] Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection
 * [Remote Sens.] EFN: Field-based Object Detection for Aerial Images
@@ -174,9 +175,9 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [ECCV] Receptive Field Block Net for Accurate and Fast Object Detection  
 * [ICLR] Multi-Scale Dense Convolutional Networks for Efficient Prediction
 * [ICANN] Further advantages of data augmentation on convolutional neural networks 
-* [IEEE ISBI]  A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation
-* [IEEE TIP]  TextBoxes++: A single-shot oriented scene text detector
-* [IEEE Trans Multimedia] Arbitrary-oriented scene text detection via rotation proposals  
+* [ISBI]  A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation
+* [TIP]  TextBoxes++: A single-shot oriented scene text detector
+* [TMM] Arbitrary-oriented scene text detection via rotation proposals  
 * [IJAC]  An Overview of Contour Detection Approaches   
 * [IJCV] What Makes Good Synthetic Training Data for Learning Disparity and Optical
   Flow Estimation?
@@ -220,7 +221,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [DICTA]  Understanding data augmentation for classification: when to warp?
 * [ECCV] Contextual Priming and Feedback for Faster R-CNN
 * [NIPS] R-FCN: Object Detection via Region-based Fully Convolutional Networks  
-* [IEEE GRSL] Ship Rotated Bounding Box Space for Ship Extraction From High-Resolution Optical Satellite Images With Complex Backgrounds
+* [GRSL] Ship Rotated Bounding Box Space for Ship Extraction From High-Resolution Optical Satellite Images With Complex Backgrounds
 * Beyond Skip Connections: Top-Down Modulation for Object Detection    
 
 ---
