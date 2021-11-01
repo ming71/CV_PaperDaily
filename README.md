@@ -2,15 +2,8 @@
 
 
 # CV--PaperDaily  
-|        |                           知乎                           |              个人博客               |
-| :----: | :------------------------------------------------------: | :---------------------------------: |
-| ming71 | [入口](https://zhuanlan.zhihu.com/c_1113860303082704896) | [chaser](https://ming71.github.io/) |
 
-
-
-Busy with recent things , I'll update without day. Notes are attached to PDF files for simplicity. 
-
-If you have any questions, please email me via <u>mq_chaser@126.com</u> .
+Updated at irregular intervals. Notes are attached to PDF files.
 
 # Archive
 
@@ -26,6 +19,7 @@ If you have any questions, please email me via <u>mq_chaser@126.com</u> .
 * [ICML] Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss
 * [ICLR] Deformable DETR: Deformable Transformers for End-to-End Object Detection
 * [WACV] Disentangled Contour Learning for Quadrilateral Text Detection
+* [BMVC] Mask-aware IoU for Anchor Assignment in Real-time Instance Segmentation
 * [JSTARS] Arbitrary-Oriented Ship Detection through Center-Head Point Extraction
 * [TIP] GSDet: Object Detection in Aerial Images Based on Scale Reasoning
 * [TIP] HCE: Hierarchical Context Embedding for Region-Based Object Detection
