@@ -21,6 +21,7 @@ Updated at irregular intervals. Notes are attached to PDF files.
 * [WACV] Disentangled Contour Learning for Quadrilateral Text Detection
 * [BMVC] Mask-aware IoU for Anchor Assignment in Real-time Instance Segmentation
 * [NeurIPS] Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression
+* [NeurIPS] Dynamic Resolution Network
 * [JSTARS] Arbitrary-Oriented Ship Detection through Center-Head Point Extraction
 * [TIP] GSDet: Object Detection in Aerial Images Based on Scale Reasoning
 * [TIP] HCE: Hierarchical Context Embedding for Region-Based Object Detection
