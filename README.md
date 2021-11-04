@@ -23,6 +23,7 @@ Updated at irregular intervals. Notes are attached to PDF files.
 * [NeurIPS] Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression
 * [NeurIPS] Dynamic Resolution Network
 * [IROS] Object-to-Scene: Learning to Transfer Object Knowledge to Indoor Scene Recognition
+* [ACM MM] Decoupled IoU Regression for Object Detection
 * [JSTARS] Arbitrary-Oriented Ship Detection through Center-Head Point Extraction
 * [TIP] GSDet: Object Detection in Aerial Images Based on Scale Reasoning
 * [TIP] HCE: Hierarchical Context Embedding for Region-Based Object Detection
