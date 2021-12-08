@@ -32,6 +32,7 @@ Updated at irregular intervals. Notes are attached to PDF files.
 * [NCAA] Hilbert sEMG data scanning for hand gesture recognition based on deep learning
 * [IVC] Weighted boxes fusion: Ensembling boxes from different object detection models
 * [Knowledge-Based Systems] PRPN: Progressive region prediction network for natural scene text detection
+* Confidence Propagation Cluster: Unleash Full Potential of Object Detectors
 * FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery
 * Object Detection in Aerial Images A Large-Scale Benchmark and Challenges
 * Gaussian Guided IoU: A Better Metric for Balanced Learning on Object Detection
