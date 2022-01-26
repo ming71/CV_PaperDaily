@@ -7,6 +7,10 @@ Updated at irregular intervals. Notes are attached to PDF files.
 
 # Archive
 
+## 2022
+- [TMM] Latent Feature Pyramid Network for Object Detection
+---
+
 ## 2021
 
 * [AAAI] Learning Modulated Loss for Rotated Object Detection
