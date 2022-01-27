@@ -15,6 +15,7 @@ Updated at irregular intervals. Notes are attached to PDF files.
 
 * [AAAI] Learning Modulated Loss for Rotated Object Detection
 * [AAAI] R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object 
+* [ICCV] Reconcile Prediction Consistency for Balanced Object Detection
 * [CVPR] You Only Look One-level Feature
 * [CVPR] Boundary IoU: Improving Object-Centric Image Segmentation Evaluation
 * [CVPR] Coordinate Attention for Efficient Mobile Network Design
